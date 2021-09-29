@@ -1,0 +1,11 @@
+total 216
+-rw-r--r--  1 dmukherjee  staff   2254 Nov 22 12:29 main.go
+-rw-r--r--  1 dmukherjee  staff  22368 Nov 22 12:29 membership.go
+-rwxr-xr-x  1 dmukherjee  staff    165 Nov 22 12:29 update_all_repos.sh
+drwxr-xr-x  3 dmukherjee  staff     96 Nov 22 14:23 local
+-rw-r--r--  1 dmukherjee  staff   4991 Nov 24 11:18 helper.go
+-rw-r--r--  1 dmukherjee  staff    934 Nov 24 11:54 wordcount.go
+-rw-r--r--  1 dmukherjee  staff  54959 Nov 24 11:54 maplejuice.go
+-rw-r--r--  1 dmukherjee  staff    953 Nov 24 12:01 Exec.go
+-rw-r--r--  1 dmukherjee  staff      0 Nov 24 12:01 out.txt
+-rw-r--r--  1 dmukherjee  staff    110 Nov 24 12:01 test.txt

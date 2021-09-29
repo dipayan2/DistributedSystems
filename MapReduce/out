@@ -1,0 +1,3989 @@
+commit da9dd3edceebceb2018af4409be625887f879b20
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Dec 6 05:25:02 2019 -0600
+
+    continue working on mapelejuice line 1323
+
+commit e8d72b7481063d70c1bbc9edb4516360bfe52836
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Dec 6 03:40:01 2019 -0600
+
+    let's get rid of stupid status
+
+commit c49a66adc4ae5eac5771028e6b6fa67109690896
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Dec 6 00:49:26 2019 -0600
+
+    wip
+
+commit 46e7d3a4222dd6ebb56594f766ebc22e09cee96e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Dec 6 00:33:56 2019 -0600
+
+    wip
+
+commit 9b6016af38975879f0684276a4fd4db80cbcf6be
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Dec 6 00:27:37 2019 -0600
+
+    wip
+
+commit 17944dee52be78cc46bf1524481d7d2b5618fa5d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Dec 6 00:22:07 2019 -0600
+
+    wip
+
+commit 47022d078927d9296bd4a85f54126661d73467e1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Dec 5 23:43:09 2019 -0600
+
+    removed all conn.Close() when err != nil
+
+commit f2bbee8b355518cb29b964efdef01e4273baffb7
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Dec 5 23:34:47 2019 -0600
+
+    don't close connections that were never opened
+
+commit 8dfccfe4b088cd2cebd9b6ad15a209e3652fb041
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 21:32:35 2019 -0600
+
+    connguard added everywhere
+
+commit 9352621756bcb7808a9e1f04a33f11a04147fb59
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 20:46:14 2019 -0600
+
+    Updates
+
+commit 6d7da0f3ec3299c9a511c25a78f79d99f46dd910
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 20:42:35 2019 -0600
+
+    Updates
+
+commit 63977c2175893bc21e00e671acabca7383d3f00d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 20:37:21 2019 -0600
+
+    Updates
+
+commit 543bec6c87c9890591a9d95ccabe815523e834af
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 20:34:34 2019 -0600
+
+    Updates
+
+commit d2fb82a700684fa86f3138f3992c366ad7404be5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 20:21:33 2019 -0600
+
+    Updates
+
+commit d13fb4f2fba09f4b106384fec57a481764defaa5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Dec 5 20:08:14 2019 -0600
+
+    min thing
+
+commit e8f9bf7fb7ea51f6b4daa203328f70acbf762ae7
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Dec 5 20:00:56 2019 -0600
+
+    gic
+
+commit 4584587efb3170edc1eeb050270538ec5a4d0c4f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 19:55:45 2019 -0600
+
+    Updates
+
+commit 12745087ecda7c997206d16c0c0b33803ef713d4
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 19:47:12 2019 -0600
+
+    Updates
+
+commit 4bcb2fbef5105d95c6f10c9002ddffc45f5cc123
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 19:30:51 2019 -0600
+
+    Updates
+
+commit 5d8ca2495ff90828276df646082a55bf792668c3
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Dec 5 19:22:55 2019 -0600
+
+    change number of keys to 1000 per file
+
+commit 5d5a501fb18598424277a99ea84f48103303fc09
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 18:45:56 2019 -0600
+
+    Removing conflict
+
+commit 5d4bcb9c9ab4922e91c24759fe3eea8058dac7fe
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 18:43:28 2019 -0600
+
+    Removing conflict
+
+commit b2b10d6a9e5bb63be101650b8b3d6b76bcbfc9f8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 18:36:48 2019 -0600
+
+    Working Code : Handling mutiple connection and multiple files 2500+ keys--node
+
+commit 911b63510cdac9ec41ae03d7ce6f6a7d2ffe9a1f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 18:32:58 2019 -0600
+
+    Working Code : Handling mutiple connection and multiple files 2500+ keys
+
+commit 9fecc9a80980f6b426c2940efa67a0179195a692
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 18:31:50 2019 -0600
+
+    Updates
+
+commit 408ea89d6d06bbce79c6e989909f23a374a73dd5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 18:19:13 2019 -0600
+
+    Updates
+
+commit bd405ddbd26357234d5688ef51c72116d33c1087
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 18:10:02 2019 -0600
+
+    Updates
+
+commit 3e833a475281b09fd4728acdc70452a84e4d3cbd
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:58:48 2019 -0600
+
+    Updates
+
+commit 936a2ebf1a877feb679c5349e28244f7be2c3955
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:29:23 2019 -0600
+
+    Updates
+
+commit 48c2a49ce876678cea35f46ad235d16d1f559a53
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:24:54 2019 -0600
+
+    Updates
+
+commit bedf4eb6e08cb6a87bf621b478e4b47f8f7d3e9d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:23:02 2019 -0600
+
+    Updates
+
+commit 7a862f38cdb19794c5ddf55c36c514b05d93f174
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:14:09 2019 -0600
+
+    Updates
+
+commit 0fcc2f78fbea6c0684b9976ab7ee3afc10e254e9
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:06:55 2019 -0600
+
+    Updates
+
+commit c304ca9350b3ed07de077b6ab35cf28ab80e56cb
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:02:02 2019 -0600
+
+    Updates
+
+commit 3a6bea7f37344d00c18d62dfbcd728ab14b16fe4
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 17:00:42 2019 -0600
+
+    Updates
+
+commit b58e672aa7aafa7b4ec47876dd3303b3b47182b2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 16:43:12 2019 -0600
+
+    Updates
+
+commit 76a431da20ac8cd5f698109a98eb57862944096f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 16:41:07 2019 -0600
+
+    Updates
+
+commit 2ca657203f537512c16c8b889c08ab002777e3df
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 16:30:44 2019 -0600
+
+    Updates
+
+commit c78cbc70ccce7b9444a09b2c334e6ed3474839bd
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 16:04:24 2019 -0600
+
+    Updates
+
+commit e55f16890c25ccb40590d6f3a489546f04f8aabd
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 15:57:22 2019 -0600
+
+    Updates
+
+commit 64f15fff64180fa9484976d7828f339bc9131a7b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 15:39:14 2019 -0600
+
+    Updates
+
+commit d599474088144b278e7afa02301a77dd91b8aa42
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 15:36:22 2019 -0600
+
+    Updates
+
+commit b917a6ad4afd713b4ccc60a3cd35876591e48133
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 15:12:38 2019 -0600
+
+    Updates
+
+commit e644fb302f14c038004199967c4ce8ad60c512f6
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 15:11:57 2019 -0600
+
+    Updates
+
+commit e084b19c1f8982f5428d194edfcc58b7e7aa6ba5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 15:07:41 2019 -0600
+
+    Updates
+
+commit 3c09acfc36590505073075dd859e4d173ebb1b93
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 14:52:27 2019 -0600
+
+    Updates
+
+commit b3cd74ef96b3226d1b309897d004ddbb66024b3f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 14:47:07 2019 -0600
+
+    Updates
+
+commit 7a957490230ec181c1917ae02cb086f38d5ecdbd
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 14:30:35 2019 -0600
+
+    Updates
+
+commit 357751bab11a348d23f086daa3dfa9d76b4a6773
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 12:34:05 2019 -0600
+
+    Updates
+
+commit 95faf7fc74414168d79a899e8c3262ed2906c523
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 12:19:05 2019 -0600
+
+    Updates
+
+commit 363ce6013146f4933524c88a52463cd665338438
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 12:03:24 2019 -0600
+
+    Updates
+
+commit 39d3f8e4367f792b5ba798b4e076a5abd9249a1f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 11:54:29 2019 -0600
+
+    Updates
+
+commit c387a78a886612fba8bed7f5e8c3c0ff6195e1c0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 11:48:13 2019 -0600
+
+    Updates
+
+commit f3b1cc4b6fd01a3dd7565c21d960cca2fd57d679
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 11:12:41 2019 -0600
+
+    Updates
+
+commit e6a5e7b2e2ad25e00e2d2c1a1447c10ca1dbae63
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 10:50:24 2019 -0600
+
+    Updates
+
+commit 6434a3d55b9ff6637db8e778d72e7092c707ab47
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 07:05:39 2019 -0600
+
+    Updates
+
+commit 293e5aa6432fd9f5cb94cab0ea78cb2e5cd196be
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 06:09:57 2019 -0600
+
+    Updates
+
+commit 38edd14ca8e5b08c1338cb23391e4f78a300b438
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 06:04:24 2019 -0600
+
+    Handling multiple files
+
+commit 1c2ad0b50695fd1e7308843631d0bfebc9c1681d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 05:44:15 2019 -0600
+
+    Updates
+
+commit ec42f53dcfc1f34e4ca9691963279db6b19eaa3b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 05:30:10 2019 -0600
+
+    Updates
+
+commit d5e99bde851f46e0beb5342ed0ca6c6a2ef5ac97
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 05:17:48 2019 -0600
+
+    Updates
+
+commit db31a74b5c900651a0d2ca0a672fe2e6cc964246
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 05:14:18 2019 -0600
+
+    Updates
+
+commit 44a1375f67c8b5bcea9cc35c851fc593a62254a5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 04:37:11 2019 -0600
+
+    Updates
+
+commit 675ee80c784ca313c8362b010319110f8deeefc5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 04:32:34 2019 -0600
+
+    Updates
+
+commit 95d907faa5ebd952e38126a8bd4763529140e521
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 04:14:53 2019 -0600
+
+    Updates
+
+commit 703a003790447d3cf9ad118e90b491c48f1d1b38
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 03:56:34 2019 -0600
+
+    Updates
+
+commit c6be863ba04985ed56008c02bcd78849864f0d1b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 03:36:28 2019 -0600
+
+    Updates
+
+commit a331bba07693a431cf87ae2e3b9b3b2f494d0d00
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Dec 5 03:34:26 2019 -0600
+
+    Handled the too many files in master
+
+commit 672578a660ee20e834c4f9f45794a490977d7429
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 18:16:59 2019 -0600
+
+    Updates
+
+commit 8c6ab98af7b537e96ef4417fd037ac5a0ca43731
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 18:04:00 2019 -0600
+
+    Updates
+
+commit 4bc2e857732079da18be4d9ae58e26a99499f484
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 18:02:51 2019 -0600
+
+    Updates
+
+commit 9fefcf2261feac17ca51ddba4f1f0874ec060276
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 17:48:24 2019 -0600
+
+    Updates
+
+commit c02f321c6744f5b18156dccd19c10733b6ec8530
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 17:39:39 2019 -0600
+
+    Updates
+
+commit 354a121ecb9c7943650a7367f040a81812febf88
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Tue Dec 3 17:27:53 2019 -0600
+
+    extra messages for filesize 0
+
+commit fbf338148eee50c2e1d344a3a6bf6a0f92f16e7c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Tue Dec 3 17:21:12 2019 -0600
+
+    wip
+
+commit c8758e7992dd49e9e44b26e258c7d6e4bdf221d1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Tue Dec 3 17:14:32 2019 -0600
+
+    debug filesize 0
+
+commit 92e87f1f7add7e58ffaf0b02b124c285988e6760
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Tue Dec 3 17:07:48 2019 -0600
+
+    filler change
+
+commit a48f1174f9f72a674f3b4678cfa8d45550e1d387
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 16:34:00 2019 -0600
+
+    Updates
+
+commit 5c0fcd96807040ed1f0a295c3d00e3d99f6c628a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 15:42:55 2019 -0600
+
+    Updates
+
+commit 6d7a2505bc51b49dc91e36320f0da0fb415345a0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 15:27:02 2019 -0600
+
+    Updates
+
+commit 5f6193e3fa7084b171722fb7ce557a593be7ee4e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 15:13:03 2019 -0600
+
+    Updates
+
+commit 817fee1dff172e9790e6100f5f781c6d894e5e0c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 15:03:26 2019 -0600
+
+    Updates
+
+commit 0ad97c8acbe184131fc7a210c88681961559fff0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:58:05 2019 -0600
+
+    Updates
+
+commit e253f384c6d368a8d1de3a22133d7c7a0898e628
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:48:37 2019 -0600
+
+    Updates
+
+commit d10626847bd5f330ba31502d82ca234082009e44
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:48:16 2019 -0600
+
+    Updates
+
+commit 181c4d221942d21c806a9b95cda365abbcbe8d82
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:47:24 2019 -0600
+
+    Updates
+
+commit f2beddc6d1a4f64a1a533a5e281ebc716ac3524b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:36:14 2019 -0600
+
+    Updates
+
+commit a92fac51f32a39480ab34e46ee8777f966215fb2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:35:37 2019 -0600
+
+    Updates
+
+commit 2e7586fe30e1087db6c91e40cceb7ba077509c83
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:29:00 2019 -0600
+
+    Updates
+
+commit 6a2fee73a2557b0cdd2920d723baf9eee070bed1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:14:13 2019 -0600
+
+    Updates
+
+commit bab62112cd3a5747d1d56774776b8ad4a5e8fc9b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:04:27 2019 -0600
+
+    Updates
+
+commit d3df1dc2b1aca1f912694e1f08197c7f3369684c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:03:09 2019 -0600
+
+    Updates
+
+commit 21fc50a2deed93db9e4c255b7c78d275f028cba6
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 14:01:24 2019 -0600
+
+    Updates
+
+commit f93a1e2f14103cdbac3ed86cb3aae975348b5ac9
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 13:39:56 2019 -0600
+
+    Updates
+
+commit f08713280a6776f009ed8c5c21c91a3f6ec86a7a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 13:26:53 2019 -0600
+
+    Updates
+
+commit 60697e3e09f795c401d6c627be170a758b64eb7f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 13:21:06 2019 -0600
+
+    Updates
+
+commit edf2c9a740d1d78d3ab49f4cdcac85442ed9767e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 13:12:44 2019 -0600
+
+    Updates
+
+commit 91bad4864afa2d4aa43867f0024ccdae3c5a9655
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 13:01:16 2019 -0600
+
+    Updates
+
+commit 6dcbdfff5979e404a223d9e2da382a4e4ec66bad
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 12:49:00 2019 -0600
+
+    Updates
+
+commit 1985545d36091b8db36bd9dfb67605957069a230
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 12:42:02 2019 -0600
+
+    Updates
+
+commit 44e902c96425ee13ca4da8c7b57430e43b51c518
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 12:33:42 2019 -0600
+
+    Updates
+
+commit 35df1265aa43bad12b2ba75b0f3a97437aaa52d4
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 12:30:50 2019 -0600
+
+    Updates
+
+commit b56e9f10a0da3ef410c5b805869f86e58fa23da5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 12:19:11 2019 -0600
+
+    Updates
+
+commit d494298caeb179bbfb60e3d893e6b575196baa95
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 12:17:39 2019 -0600
+
+    Updates
+
+commit 35f1b1ce52b6e5b833787230d3a81b326b619db2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Tue Dec 3 12:03:43 2019 -0600
+
+    Check end
+
+commit 32d41ca2b86c45a90190abe7bee1688779487301
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Mon Dec 2 13:42:01 2019 -0600
+
+    Data cleaning done
+
+commit ce078018eba6041e320d4dd8aae3874438c1a625
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Nov 28 13:56:02 2019 -0600
+
+    fix
+
+commit 65a23f123d4d8fff69cf2418bc6991605a9d40de
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Nov 28 13:33:40 2019 -0600
+
+    multiple replication for no reason
+
+commit 063711b0ea4f5d056c739acb9d89d23f73c1c333
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Nov 28 12:58:33 2019 -0600
+
+    print, check failure
+
+commit 35a58d02f4fe9c108a4f991b3216c068b40cce2a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Nov 28 12:48:16 2019 -0600
+
+    fix to failure handling stuff
+
+commit 5f1907c68b251889f5535b796fbaf0e6447ffc9d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Nov 28 12:42:33 2019 -0600
+
+    failure maple handling
+
+commit ccfce35a56e60265b48aa9a844ee16df0686c210
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Tue Nov 26 23:07:08 2019 -0600
+
+    filled loop holes, haven't tested
+
+commit 83e5f3a4de7a02c8919d8ba0ed0f9067e72e2929
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 17:30:32 2019 -0600
+
+    key outputs appended to single file
+
+commit 9d7882ee4e34da9a63a09f4cd7f3727e3ec0a947
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 16:58:58 2019 -0600
+
+    wip
+
+commit 1b20eb0fa91fa77e929284c8bf73d0bdc95519f8
+Merge: a43c449 ffbb874
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 16:57:26 2019 -0600
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit a43c4492fe34eb255b2317451edd07859d76f471
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 16:57:10 2019 -0600
+
+    key aggr fix of range list
+
+commit ffbb8745df9f67c4feb3d97cf4c14d471ca3dd88
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Mon Nov 25 16:13:40 2019 -0600
+
+    Key Aggregator file name issues
+
+commit 2f87713a6687b3a18048b61fc447fe493e1cad75
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Mon Nov 25 16:06:44 2019 -0600
+
+    Key error
+
+commit de7ed8f1a7a5052c4d24f63e3ed92d95c55b63c0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Mon Nov 25 16:04:25 2019 -0600
+
+    Key error
+
+commit 1db7761ea43926e66454f362f32c5679f71fea13
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 15:56:16 2019 -0600
+
+    key aggr working
+
+commit de0c055d5fc2b639c6c0f617323f802389a35fe8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 14:14:14 2019 -0600
+
+    key aggregation
+
+commit 5ef43713a6acf4906ce0d6dba0d25a7bd2c15ce5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 12:22:50 2019 -0600
+
+    wip
+
+commit 4b7da358a398a24d7046e60c1d6f428568d6fb68
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 12:17:43 2019 -0600
+
+    wip
+
+commit 8590c18183c6a0aba9c9c5160f8b8fdb24b1ebbb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 12:17:19 2019 -0600
+
+    rm wordcount bin; exec on vm01
+
+commit 4e7db2b32086a774de23b76f5b2fa327263dae98
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 12:08:42 2019 -0600
+
+    wip
+
+commit 6be48301ba7a1f6f2f3d450600965d6347d1b314
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 12:05:38 2019 -0600
+
+    assemble keys func
+
+commit 37cd95966fe46b2d61fb3228c936108d491d79fc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 11:49:35 2019 -0600
+
+    maple keys are being recvd correctly
+
+commit c3ae602a26f5df382f7416d020e54fee8afaa12f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 11:42:08 2019 -0600
+
+    fix maple keyfile using padded message
+
+commit b869af561c5d3842b386161e086daa4885085dec
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 25 11:30:48 2019 -0600
+
+    fix
+
+commit 7349da194290ba22d6a5ca7455af52af6dde747f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 19:12:05 2019 -0600
+
+    wip
+
+commit 198f64827d7f2b5f30bd383b35738eac94ae061c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 18:48:09 2019 -0600
+
+    wip
+
+commit 4f3c4c0528a6c128625f1b1128f5d92568d1d926
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 18:43:37 2019 -0600
+
+    maple ack handling
+
+commit 0d4b233e92b3a1a17db313fd3e6baebc74b8d8ac
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 15:05:28 2019 -0600
+
+    wip
+
+commit 727c4d05a2cde8cb1130d21a6bfb05c2760cd2ce
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 14:57:02 2019 -0600
+
+    wip
+
+commit c2d7bb1da6882294565d88cd008d5798e181e0ed
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 14:45:51 2019 -0600
+
+    wip
+
+commit 39db4a6c2c62eb5c6b6cf8225e290779efb81af1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 14:39:48 2019 -0600
+
+    chunk files into keys per maple task
+
+commit 905eaf8354ca4348fa60f26860dda1197b037799
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 13:20:18 2019 -0600
+
+    change exec permissions
+
+commit 36397e109e37b1a12370756f09eb37cd29c650d8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 13:09:04 2019 -0600
+
+    wip
+
+commit ba842f83bbf004aa0f614dbc5ea96bf0e6e504d6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 13:08:01 2019 -0600
+
+    wip
+
+commit b05fee3b396339cd3d21f5e5c19eea75cd0fcdfc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 13:02:05 2019 -0600
+
+    wip
+
+commit cf6649724ae635e27f15c727a75ca2cb10956480
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 12:54:24 2019 -0600
+
+    wip
+
+commit 4ce3296dc5a577c121e930bfd3872d2e673e6a33
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 12:36:38 2019 -0600
+
+    wip
+
+commit d7f4e2b61f179c51723c559448dda8857dc2831e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 12:36:01 2019 -0600
+
+    run cmd exe
+
+commit 16d8f1545f0e6d1e2fb52de58a1121d34f8d29a9
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 24 12:02:55 2019 -0600
+
+    Execute Command
+
+commit 1277015a1279084d1951be007f310f0be87ca4c8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 24 11:55:15 2019 -0600
+
+    Execute Command
+
+commit 547b8159ab658b96568e1a1c033dff3cad9e80db
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 11:53:02 2019 -0600
+
+    wordcount exe
+
+commit 91ab5f9fa7a43b7a59a83f2738155e0c258d960e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 24 11:52:23 2019 -0600
+
+    wip
+
+commit 2f74e893e983cc98a765bfdef9ddcbaeb5ea7121
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 19:51:23 2019 -0600
+
+    wip
+
+commit cd16de8b6c8f3b3b688d43314a20221b1d5658fb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 19:16:34 2019 -0600
+
+    wip
+
+commit 44a4ecd6bb2c37bd21ae64d5e1400d39f724247b
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 19:03:43 2019 -0600
+
+    wip
+
+commit d6cfc4782ab5e052327dc9780ae9a365b6443f4c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 18:59:34 2019 -0600
+
+    wip
+
+commit 87311659cdfd75736f5c07a59499130e5017db84
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 18:50:10 2019 -0600
+
+    wip
+
+commit 9ef9446e2efd3a163f8cd051ec9bfa03c839825a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 18:38:36 2019 -0600
+
+    wip
+
+commit 7c2754ed9db2a4a1d54a4a3d3f438205c9b0a74f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 18:31:34 2019 -0600
+
+    print maple executeCommand
+
+commit da678d55345a20e223ed533f04061704db8a5014
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 18:25:29 2019 -0600
+
+    maple
+
+commit 82c85c2489d02501c52b2ef5f9ee5419a877c4f7
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 18:17:56 2019 -0600
+
+    gitignore
+
+commit 9f338774ceaee6938d7940784d9c2df1a86ce09a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 18:15:50 2019 -0600
+
+    half maple
+
+commit 5e1383618c5df19d11443aaba69c9053f6c0f7a0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 23 17:53:09 2019 -0600
+
+    minor
+
+commit db983d29df9865db17189afe84023bf3922a4021
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 14:24:57 2019 -0600
+
+    helper, maplejuice
+
+commit b7ddfbc890b46bb32fbdf4a7a6614decf3ae80dd
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 13:03:00 2019 -0600
+
+    local dir
+
+commit 3322cc91677a17ddefb3dc0281b5518222389c4f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:58:07 2019 -0600
+
+    fix
+
+commit 775c9767c5fc6654469525d81850eb33720f33e5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:53:21 2019 -0600
+
+    fix
+
+commit 76dbe789406b608c2ba29e8c842ee481b703aacb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:45:18 2019 -0600
+
+    fix
+
+commit bad8f51ba7b71ca2354d5fe0dfdd354322993a07
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:42:47 2019 -0600
+
+    don't send ack to master
+
+commit 195fb62069cce657fe47a0a4e802a980a9c3bd0e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:37:23 2019 -0600
+
+    debug maple
+
+commit c42fd67a9ac6eb1f1b1f1bb2b3f304e25015ac56
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:36:19 2019 -0600
+
+    debug maple
+
+commit 2527e0ed59a22b1c8491479590638f77be318bf2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:33:06 2019 -0600
+
+    fix
+
+commit 98960b429a352d2c96dd9a2eddabc321b42d03cc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:27:33 2019 -0600
+
+    add membership and main file
+
+commit 4e0806b76d93e75e72563e911ee49ef118a15fc9
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:24:36 2019 -0600
+
+    send maple exe to everybody
+
+commit 11c7ba32c102e4a7977d2ea43068d1ac4e60cc5a
+Merge: c40d5d9 f955d68
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:10:49 2019 -0600
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit c40d5d97c0880290e2ce4af442d0460da75e5067
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 22 12:10:07 2019 -0600
+
+    Let's please start MP4
+
+commit f955d686f43b6e5a7cd5d8b7f448fb623e6e6b13
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Mon Nov 4 00:24:41 2019 -0600
+
+    Update README.md
+
+commit 27d7b7edaa7f9c804657e1655745cfb469eca81a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Nov 4 00:20:24 2019 -0600
+
+    report
+
+commit dcd252f965eec353c61653eddd57308ba1c8d03d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 22:32:39 2019 -0600
+
+    change buffersize=1024
+
+commit ed4d04ee1a73892ec052557de2582e582312f59a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 22:21:06 2019 -0600
+
+    change buffersize
+
+commit 796a856ee2839e0de38578f0c194bacc1f0e3061
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 20:50:53 2019 -0600
+
+    final code
+
+commit f7e788c68dbf96f89fd6869f9e3020eaac3574cc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 20:31:08 2019 -0600
+
+    final test
+
+commit c321222c1971a59b92b2ac96fcb2428170dbd355
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 19:46:21 2019 -0600
+
+    test files MB
+
+commit 4df7ba4633c83c2574afbd8d886cfcdaf94e23a0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 19:35:30 2019 -0600
+
+    print lesser
+
+commit 5abd92aa485738c5ed0e39e309170714696164a6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 18:28:35 2019 -0600
+
+    demo testing in progress
+
+commit ee96b0b2893c2974c4f204c07ec233f036016d42
+Merge: 2f42f19 43ad34a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 18:06:37 2019 -0600
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit 2f42f19c2504e29a8ff2dafaf2e19d97f84b9877
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 18:06:28 2019 -0600
+
+    failures handled, dead code cleared
+
+commit 43ad34a8c4c7451abfab3e9f9b656949f5d9dba5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 14:07:20 2019 -0600
+
+    ToDo: multiple CRASH handling
+
+commit 3d594d41dda164d69f2ecc2d7dcc58c375b226d9
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 13:52:36 2019 -0600
+
+    introducer, master change
+
+commit c45d3ea62f1359c0f44d0812e7a1126a97a800d6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 13:51:58 2019 -0600
+
+    fix
+
+commit a51d5e3b51563ce6bf426d3369386721e2aa4a81
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 13:50:55 2019 -0600
+
+    Report in Progress
+
+commit 688dd25a3d807c14a874a631d03a9596df48bbc9
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 12:38:56 2019 -0600
+
+    All timings added
+
+commit 823d42272b53023f37f25eb7e9a6f88583d1b688
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 12:15:55 2019 -0600
+
+    Updates
+
+commit c0e1904d3df5af14eb1e40a54c3763a94cd0bd8f
+Merge: e3f8e4e 6c3eb2a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 12:10:25 2019 -0600
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit e3f8e4ea64bea143ecb2f753d2aeea559abf50dd
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 12:10:21 2019 -0600
+
+    Updates
+
+commit 6c3eb2a08a0519f9258d57946a427887308b28f5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 11:57:25 2019 -0600
+
+    fix
+
+commit bac6f1937188524ff95655db90760935548d3fa2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 11:55:03 2019 -0600
+
+    fix
+
+commit f3333f49a9332b02f2ca80767750489f432ca771
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Nov 3 11:50:22 2019 -0600
+
+    stress test
+
+commit cc607a8f2db182d6ba44f66aa2ecc8bda988923e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 11:42:42 2019 -0600
+
+    Stress Testing
+
+commit 88636aeefb0211614e808f7e14c627d02048770a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 11:22:35 2019 -0600
+
+    test crash
+
+commit 0d7ba2462a6def14f7a7b7e16147dfb366ff3f5b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 10:53:21 2019 -0600
+
+    All working
+
+commit 618db3d60610ab06af7c4430ab40db41a14a34bf
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 09:27:01 2019 -0600
+
+    All cases handled -- need extemsive testing
+
+commit f5f5bfa0a4f3ab275c6c4185df368083b2f5480f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 09:13:22 2019 -0600
+
+    Updates
+
+commit 78c23d330ec5f1d0919027f1c8421e633904f99a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 09:09:23 2019 -0600
+
+    Updates
+
+commit 546bc556889ea0bcac437b1f5eb8aff3207d805d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 09:08:14 2019 -0600
+
+    Updates
+
+commit 837cd6e46d6979e4ef6fe302c5142374954b57f8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 08:57:57 2019 -0600
+
+    Updates
+
+commit 95f008c7efec29599b5a13829f2576f983a0674f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:59:09 2019 -0600
+
+    Leader Election Handled, not rejoining
+
+commit a8e71b6b02b84f31a4af3f03f4207eff11bae5ea
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:54:30 2019 -0600
+
+    Updates
+
+commit cfddd12c9a9ed3bd6f3c0cb4e2bfcb14821e8dbc
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:49:37 2019 -0600
+
+    Updates
+
+commit c178d0fd39a03d35abf9cdb0e5ba8cd4e663ee2e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:39:46 2019 -0600
+
+    Updates
+
+commit 3faf36000a68904c1114471c01c5f72e455fcbc4
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:35:41 2019 -0600
+
+    Updates
+
+commit 462e993875787f47c584954817aaaa38d993799a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:27:38 2019 -0600
+
+    Updates
+
+commit 4b01355c7d622f0a5da2b31406a207ad427c239f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:23:55 2019 -0600
+
+    Updates
+
+commit 7ad9ef1b5a25310c69e4ef816ddec54c8b6971d6
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:17:41 2019 -0600
+
+    Updates
+
+commit ccd66c58906e499d7dab145175ae3d4a6f3dc080
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:12:20 2019 -0600
+
+    Updates
+
+commit 8dac83a343e923b702c8da2fdd9049e72db8bcf9
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 06:05:44 2019 -0600
+
+    Updates
+
+commit 51cd4d96902115dcd9f45e24e0d21df4bf479f8a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 05:58:58 2019 -0600
+
+    Updates
+
+commit 2128dc190b4fa57c7632d1a0294a59fd1864a21b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 05:50:12 2019 -0600
+
+    Updates
+
+commit dd3d58e9b355d6a9ff233d2c13c97ea222f25ae1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 05:43:07 2019 -0600
+
+    Updates
+
+commit 60eed64303eb6b7c3f8a3b3a8d1322338dfabb0d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 01:20:37 2019 -0500
+
+    Demo Working Version
+
+commit 6e280a31d3d84768ef52b56d074951505a9f1909
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 01:15:46 2019 -0500
+
+    Updates
+
+commit 298c90d9400432b012defc07645ecd8c5bd233c0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 01:04:05 2019 -0500
+
+    Updates
+
+commit acf77a369c23a7a8d4948d459c4da595aa1974f2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:56:49 2019 -0500
+
+    Updates
+
+commit 074b4f18907c0df42ecac542702730c1249679ab
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:56:04 2019 -0500
+
+    Updates
+
+commit 97ef965ccabfda378467a845a0affd8131331b21
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:47:56 2019 -0500
+
+    Updates
+
+commit 87e1528722b1e0a26913a4e3da0889204bb0ebea
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:45:50 2019 -0500
+
+    Updates
+
+commit fa2541dc0e61fb7ab266f4933740db86ccd0ec73
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:42:21 2019 -0500
+
+    Updates
+
+commit ece382524de062ec763d176810c2e835fd8aa6b1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:38:49 2019 -0500
+
+    Demo Version Testing
+
+commit bccb2f7c994e79894cb4f8c30a36e61663221ecb
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:35:54 2019 -0500
+
+    Demo Version Testing
+
+commit 405d0df5c8819bb088795cf4d4f6e086ed816b0f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:30:44 2019 -0500
+
+    Demo Version Testing
+
+commit 35d8de95c0594268164432af6889740310bd9098
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Nov 3 00:27:36 2019 -0500
+
+    Demo Version Testing
+
+commit 4763636b081a93f9362b3cd0315d77d666e69562
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 23:56:49 2019 -0500
+
+    Updates
+
+commit 27de50a8291761878de6b2f95eff95d1b40b6c86
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 23:52:50 2019 -0500
+
+    Updates
+
+commit 28cfbf635632ec2edfd71399a3e043a84f7238d1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 23:50:22 2019 -0500
+
+    Updates
+
+commit ef4fec73b020bc8d1381bfd2711ae37b595cd062
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 23:39:07 2019 -0500
+
+    Updates
+
+commit 60f1fd0090ad479abafd686d681fa06f5b27d868
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 23:07:26 2019 -0500
+
+    All Working Code- w/o master Failure
+
+commit bd9c22807cfccbce8ab4df85dce21d442dc9dd10
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 23:00:03 2019 -0500
+
+    Updates
+
+commit c992beb05cf528f82f72acc5c76bb1c4303d4111
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:52:07 2019 -0500
+
+    Updates
+
+commit 8255af28b46cace58dd473478a717040c31eea2c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:50:13 2019 -0500
+
+    Updates
+
+commit 90ed0a37eec9debdc8c5fe653dff065cf406f912
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:44:52 2019 -0500
+
+    Updates
+
+commit 910ea8f4b428e768d4a0e96f93891faaadeac93c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:42:42 2019 -0500
+
+    Updates
+
+commit aed584b034dcb28e22a52cb23fc84f012dd088eb
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:41:23 2019 -0500
+
+    Updates
+
+commit c70cfa17d0708e1ed889c82979346e484d48fd29
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:21:13 2019 -0500
+
+    Updates
+
+commit 99afd06b91b722380ab3e375cb7e5f93657ac088
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:20:26 2019 -0500
+
+    Updates
+
+commit e9d583e23d5614ae6418d0bae678805573ef5072
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:19:08 2019 -0500
+
+    Updates
+
+commit 2d245242fb02d9697dabd133a391ff6e3cfd7345
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:17:53 2019 -0500
+
+    Updates
+
+commit 8a1c4dded559976bde6e29277b5c2dc73409fee4
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:15:03 2019 -0500
+
+    Updates
+
+commit 80d151d68f05f5deada1c6eed58474638ecd319e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:10:18 2019 -0500
+
+    Updates
+
+commit 3dad52178dfdddcd00405627e9dcf9f95e69eeb8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:06:16 2019 -0500
+
+    Updates
+
+commit 4f717aadb26929984e68d0932f7d4b1e9b892333
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:05:11 2019 -0500
+
+    Updates
+
+commit 4665074c6e2e13bbe151cccfbbab3e3fe71dd47d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 22:00:10 2019 -0500
+
+    Updates
+
+commit 047a3d8f000065fa40a5c122eb796cbc6b7d18f8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 21:56:06 2019 -0500
+
+    Updates
+
+commit 34b0fc95961f1cc559a4f9735ba3777fe1688a2a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 21:26:21 2019 -0500
+
+    Updates
+
+commit b9ce4ff9a87e96f7a6845310cb58af85022229f1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 21:20:03 2019 -0500
+
+    Updates
+
+commit 6dd4217b1b98c97471f87cd37194f46c6a17edb8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 21:16:16 2019 -0500
+
+    Updates
+
+commit 5f314dcbdce56694a2b3604cf6adc947cac4f77c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 21:12:28 2019 -0500
+
+    Updates
+
+commit af73c93efddda9361697de18261ad45d798690d6
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 21:10:04 2019 -0500
+
+    Updates
+
+commit 40414697e4dca8fd6b1c528ffb1303cea78a3c15
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 20:59:56 2019 -0500
+
+    Updates
+
+commit 69ea9d6d6fd7d8f5916087b3568c91dce8974a1c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 20:55:06 2019 -0500
+
+    fix
+
+commit a43954e6c6d70cd37199584547fd93f98d6a3a9c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 20:48:28 2019 -0500
+
+    fix
+
+commit f78a28e5a7f238883300f2da63f5029ebac4a855
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 20:26:32 2019 -0500
+
+    fix
+
+commit 40b3a3ab3ac1968a1fb0cceaa06db12f75627959
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 20:25:35 2019 -0500
+
+    fix
+
+commit 56981a9ff54bfc4a6ccc2c387f02cfad0acc8c39
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 20:18:41 2019 -0500
+
+    fix
+
+commit 26351ef85ce6c601617291cfe374857c6b46538a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 20:17:15 2019 -0500
+
+    fix
+
+commit 52745e0154008a0e748abd2606980c7dbc7fed64
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:59:14 2019 -0500
+
+    fix
+
+commit 3b30660c473f02ade362603c5bd92a1f53943dc4
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:46:37 2019 -0500
+
+    fix
+
+commit 485d90e93f80c30fbf9f5283ba62890be66722f8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:42:15 2019 -0500
+
+    fix
+
+commit 18c24e673c9131a62fb4942b3345b7b5268ca620
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:36:55 2019 -0500
+
+    fix
+
+commit a940130e1c7a63299e4a1ecd93812d28a41baead
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:34:09 2019 -0500
+
+    fix
+
+commit 686d8cefcea62da532296fcc5e52342622c19a82
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:32:43 2019 -0500
+
+    fix
+
+commit 0db041961c5366dc0411aa2a90c229b4d8d6bdf7
+Merge: db06b56 aacbcf2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:29:44 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit db06b56dee1d5126e229db42f5190a94c9c56df2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:29:16 2019 -0500
+
+    fix
+
+commit aacbcf2da2280882d700766e13ed44c20ab20266
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 19:24:53 2019 -0500
+
+    Updates
+
+commit 6734ba0ea81f33ccd162c4a98456075aeff75a6c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:14:18 2019 -0500
+
+    fix
+
+commit 2bfa8b4b8e3933d76a217e9b0a8f73e61c915ebd
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:04:20 2019 -0500
+
+    fix
+
+commit 3139a6ab90bd02c0e46696bb047f7b1c21c65144
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 19:00:03 2019 -0500
+
+    fix
+
+commit 391631b515b28f1fb9cdd27e1ab59ec2ac348643
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 18:37:29 2019 -0500
+
+    fix
+
+commit 7b37a6ad6333d00754b93d30d9dbb34483ef67bc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 18:26:47 2019 -0500
+
+    fix
+
+commit 4c356e191851430b165523ccaaa883c5ea2ef2cf
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 18:24:54 2019 -0500
+
+    fix
+
+commit 479faea7491d645d03acbbdef1a683098b40f610
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 18:23:34 2019 -0500
+
+    fix
+
+commit ce62cb35629f1ccfde281c1a1a3fd62dbca0f4d3
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 18:19:14 2019 -0500
+
+    fix
+
+commit 2aa68a623d98b6a2d9695db6371d5a1816ce77af
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 18:18:25 2019 -0500
+
+    fix
+
+commit 3f3aa71d73603395940edfc3e5098da4cc210f55
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 17:04:39 2019 -0500
+
+    fix
+
+commit 81787bce5225df3eede6864c34f0538a0b74972c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:59:11 2019 -0500
+
+    fix
+
+commit ab1bf048332bafd67b4b9b112c0a8dca8e06611a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:57:11 2019 -0500
+
+    fix
+
+commit 6ecf539c94bfd6b6d67fcaf530094293f70feebe
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:52:08 2019 -0500
+
+    fix
+
+commit d165660fb3c72ade94e3b170f33e43dd6db3f8da
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:47:20 2019 -0500
+
+    fix
+
+commit 2b7ef0a6a5eba8645d24a91703b6cccecc251d89
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:45:50 2019 -0500
+
+    fix
+
+commit 6526363d96bb5c09a768b9cd3092e61f60fb1697
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:38:13 2019 -0500
+
+    fix
+
+commit 8b0f9bdc940d94c080044eacfe3d0096692d6abb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:34:29 2019 -0500
+
+    fix
+
+commit 182267220e9d5ad8d753a3eb638e4a8627c4e051
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:33:59 2019 -0500
+
+    fix
+
+commit 1ace866abd728272880e3a26353cc4a781eb5c76
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:31:17 2019 -0500
+
+    fix
+
+commit 8f2f7569aab78f1d6c4bf679cef5fefda00a1f47
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:25:53 2019 -0500
+
+    fix
+
+commit 8ac158479ca7a4da2f0d681688632d2afdc5910c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:22:22 2019 -0500
+
+    fix
+
+commit 71f74164922913596d366f4bd0f6717abe462f83
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:18:39 2019 -0500
+
+    fix
+
+commit f038d1f7c62f5e91d93b657a3394add14e8861de
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 16:13:43 2019 -0500
+
+    fix
+
+commit e99033a05c8eaff46176496795cf13918ecd5636
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 15:57:26 2019 -0500
+
+    handle node failure, write-write conflict
+
+commit f8899af76bf494c98c93a0a5f5e11d6b8e1d78ce
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 15:41:41 2019 -0500
+
+    fixes
+
+commit e247ce0b733b6576aea4ecc9acdec8f4ae2ee3c2
+Merge: b829dd7 41a563b
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 13:46:30 2019 -0500
+
+    replacenode, putfile
+
+commit b829dd74e0f98bc01a357709acd28e27c1cf4ad1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Nov 2 13:44:50 2019 -0500
+
+    replacenode, putfile
+
+commit 41a563b58fb5cf00de9052a61992ff3961978b68
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 13:09:31 2019 -0500
+
+    Write Write conflict handled
+
+commit 7854925c0088c4125d5e47e102ecc66a3a1e06f3
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 12:13:53 2019 -0500
+
+    Updates
+
+commit b9b89038047f33afa44ba0fe28e3071c896047cf
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 02:18:06 2019 -0500
+
+    Updates
+
+commit f5b0dedae24564c411336ab8e6eb4c8d733d74e8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 00:16:44 2019 -0500
+
+    Updates
+
+commit 5e62ce4542d0afb3d64eeb3b4e85181d34988956
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Nov 2 00:08:28 2019 -0500
+
+    Updates
+
+commit 0b704eae7dcfb1ed5bf2b206eea6cc0c705722db
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Nov 1 21:57:44 2019 -0500
+
+    Updates
+
+commit 313a70175ebdf9a262b14e33ca722ee7970aebaf
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:46:47 2019 -0500
+
+    fix
+
+commit e5a965b3f6e38bab0f9e053ee9888e367bae914c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:41:19 2019 -0500
+
+    fix
+
+commit 33eba042fd8de6f6b6c9e0894bb7f3e07e9b1b00
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:39:14 2019 -0500
+
+    fix
+
+commit 229992b00f63906992f0e4f6a5ec2303f7242543
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:37:40 2019 -0500
+
+    fix
+
+commit 6a028504593f115f5e6f43372c3046c2ff7b9fd5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:33:00 2019 -0500
+
+    fix
+
+commit 5e1b8256a4d7b118e148491d40e3784df7271fc8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:31:57 2019 -0500
+
+    fix
+
+commit 1af48eeb4965bdfe90c6cb250d9cd46086f5d6b0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:22:35 2019 -0500
+
+    fix
+
+commit 48ba49eb73c4c17608270427ef1e3fde82196237
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:08:57 2019 -0500
+
+    fix
+
+commit 092bb834829efd1a2993072afd200551727ff2df
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:06:09 2019 -0500
+
+    fix
+
+commit 547947174ad9c4e01f237badd71376461bc9d452
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:04:28 2019 -0500
+
+    fix
+
+commit d5ff46b7b22eebb180b0ec28b0b2c894e37f9977
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 19:01:48 2019 -0500
+
+    fix
+
+commit 8225745a8a70a5724789ed61bd963574684a97c8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 18:58:27 2019 -0500
+
+    fix
+
+commit 6f5ac37b71f2c76091ba1540ed584a555d0f679d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 18:53:13 2019 -0500
+
+    fix
+
+commit dcdaf921fc6990b2e7a0d2550db2bfaf06c1e255
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 18:14:54 2019 -0500
+
+    fix
+
+commit bc7d07a45efafdc03ab66fb670af4a597ddc69ea
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 18:10:52 2019 -0500
+
+    fix
+
+commit 739bfd66f8b4a7a93fa125a50c198d1d209aff62
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 18:10:04 2019 -0500
+
+    fix
+
+commit 797440160d38e5e7f6e7ff699b8d48b83364cf66
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:44:57 2019 -0500
+
+    fix
+
+commit dbd61a5d2329a3fe6811cb1c064fca3bf9d7800b
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:40:26 2019 -0500
+
+    fix
+
+commit c4f90e96aaa56771bd7fa7a33fc13f51e009262d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:38:43 2019 -0500
+
+    fix
+
+commit 5757ba473cadc51ade35ab297503d3edaefdedf0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:34:13 2019 -0500
+
+    fix
+
+commit 134ec5286e8340d26a43e301e449daf6b9985d90
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:30:03 2019 -0500
+
+    fix
+
+commit 77f28484b9bc5b4f1f651493f08e2e5faafb9f36
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:13:00 2019 -0500
+
+    fix
+
+commit 5f3b71fc51a521eb63138e9a5d09cf019797076e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:08:30 2019 -0500
+
+    fix
+
+commit cfc614d512991eced3e7ebedfaa4ee12fd7cbb13
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 17:01:49 2019 -0500
+
+    fix
+
+commit bf0cc9245c92b9120e25259b3ccad7f7809453ce
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 16:55:51 2019 -0500
+
+    fix
+
+commit d716e03e2841dd007970ad4c9399316d1d678a7f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 16:52:10 2019 -0500
+
+    test sdfs
+
+commit 3b61edd884509d98b1042ae49db0296ee1619a2b
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 16:46:35 2019 -0500
+
+    fix
+
+commit 988191ecf84f545bc09628516b0e94cede1c3928
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 16:44:42 2019 -0500
+
+    single channel log
+
+commit 45206e6a26ea7ad093b4b010aefcba9c69544acf
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Nov 1 16:42:25 2019 -0500
+
+    Shaed dir added
+
+commit a68ba8e21e0cb464e20a67dad3477b97c36f427d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 16:36:32 2019 -0500
+
+    compilable code
+
+commit b2453a210cb51d4a8c069ff0653243201d1b0574
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 16:26:23 2019 -0500
+
+    comment getmyIP func
+
+commit dab020835ff3a9129a210014d80068882cfa4d05
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 16:25:16 2019 -0500
+
+    integrate
+
+commit 6615f0d14953b828a4cab6a5fe01b7cde873eb5a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 15:58:00 2019 -0500
+
+    integrate MP3 and MP2
+
+commit 9899b36b55d0c2da639bb96f836251b982d955f2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 15:20:58 2019 -0500
+
+    quorum, update maps
+
+commit 7a3fcfa871fea936f5919a519bbe494b4a9f5b56
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Nov 1 14:23:55 2019 -0500
+
+    deletefile
+
+commit 9bd3cd457ed18d2daf6e119fbfe304c87fd0ec99
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 31 21:03:58 2019 -0500
+
+    more MP3
+
+commit 5f8ff5aef3da2766f9db50d6f097d0f2fd4c7254
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Oct 31 19:31:16 2019 -0500
+
+    putfile added partially
+
+commit 99f57ef8653215ed8710876e35dfede928239a74
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Tue Oct 29 21:53:49 2019 -0500
+
+    more mp3
+
+commit df901ce5276e4a78f7f9e094c10d3b9cba590be2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 21 19:46:49 2019 -0500
+
+    skeleton
+
+commit e70defb18df73c944fc01b1de9b4aa4cba2b47ef
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 21 14:19:34 2019 -0500
+
+    MP3 start
+
+commit a4217b69d6bdd74228fd2637bd00db4b6b9759ff
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 14:35:00 2019 -0500
+
+    member print
+
+commit acf179ecdfbf275ebe65fe04841199db179acd06
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 13:38:20 2019 -0500
+
+    Minor
+
+commit 36a966199b88bd5ef4e0ac8829e1d449bbb8d1e0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 05:17:13 2019 -0500
+
+    Change introducer IP
+
+commit 968b1c9e7c5482fa0f9db9b33d184d1bfabe52cc
+Merge: 5ce139b 664c338
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 05:02:50 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit 5ce139bea72f40f6df172be2931e04921b52b807
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 05:02:42 2019 -0500
+
+    Nicer looking plots
+
+commit 664c338b9082c235d88802bdfa4edf1558ab6561
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Mon Oct 7 01:27:49 2019 -0500
+
+    Added Report File
+
+commit a4d09c7fc9487b861efdd046301e8d3bf3f94085
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Mon Oct 7 00:24:44 2019 -0500
+
+    Update README.md
+
+commit 3a8640acd57aa90955dfdc3368b73730c58a750d
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Mon Oct 7 00:24:29 2019 -0500
+
+    Update README.md
+
+commit a52d735b23ab5e70359a6368086df583cd54466d
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Mon Oct 7 00:24:09 2019 -0500
+
+    Update README.md
+
+commit 6cdcc2f27348682c8c3600cac58484a792ac77b8
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Mon Oct 7 00:21:59 2019 -0500
+
+    Update README.md
+
+commit a615e2d72407ec3b81d8bdc30a594ebcc9c2da08
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 00:11:26 2019 -0500
+
+    Add a README
+
+commit fe1817f2f6f45128930dad1ee424c2255f1ff9bc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 00:07:03 2019 -0500
+
+    Change drop probability to 0
+
+commit aba57ec833896bba092429d79a1852b262b635e5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 00:03:06 2019 -0500
+
+    main file for membership
+
+commit f3cd245200057b1ae4d6ba88183b5aa20a6718a6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 00:02:06 2019 -0500
+
+    remove scratch files
+
+commit c7df2a1c7debcb315eed356dbb120a05d17d4007
+Merge: 6b90007 f522503
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Mon Oct 7 00:00:09 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit 6b90007a23767a3f62ccf4e9b38d652cfbdf0687
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 23:59:45 2019 -0500
+
+    remove
+
+commit 81db5d4702db3beefe9ad35fed7dbe322312806e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 23:58:36 2019 -0500
+
+    Report
+
+commit f522503bdaf6de3fc646e61679ca4caea0374612
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Oct 6 23:34:21 2019 -0500
+
+    p=0.3
+
+commit 018492a27b29480a6c57e196991f981a01ccd58d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Oct 6 23:10:36 2019 -0500
+
+    p=0.03
+
+commit e2e138f8930a1c69a0536a8fced593c1a9ee61bd
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 22:40:54 2019 -0500
+
+    p=0
+
+commit 2da9cb818ddde17ea3b42f166b23de19a4426d27
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 22:37:18 2019 -0500
+
+    p=0.30
+
+commit ac871a31a2661f567147c463027e87eca36690cb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 22:28:41 2019 -0500
+
+    p=0.03
+
+commit 83d17571130f5014a6b8197b4bc5410a242aa170
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 21:58:40 2019 -0500
+
+    p=0.10
+
+commit a53b57f34773e21f12601f9c9bea304a7791bb96
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 21:52:58 2019 -0500
+
+    minor
+
+commit 8e18ba2bdb52a3f6961d4f83a8a958be00cf8280
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 21:26:59 2019 -0500
+
+    Change MP1 port, clashes with MP2 heartbeat port
+
+commit 1cec878265d87d01ab551a9ff394d668c2e1d5d6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 21:20:43 2019 -0500
+
+    introducer back to 1
+
+commit 3521cd01e7dbc7469b62657b40a22ab0a80b832d
+Merge: dc7486c 6b635e7
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 21:19:29 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit dc7486c7e2582c8b96ed5b72ed142284826173ae
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 21:16:41 2019 -0500
+
+    Simple logging
+
+commit 6b635e71d389525e2b9b5c9889e7b02b25adcfdb
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Oct 6 20:35:00 2019 -0500
+
+    Introducer Changed
+
+commit a6e70c63a0ef7b4342eececadc221f0658ebb5bd
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 19:41:01 2019 -0500
+
+    Fix
+
+commit 2d633631714e39f4fc7c26856b3c809ba757640d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 19:34:37 2019 -0500
+
+    heartbeat packet drop :P
+
+commit 6d639cca50531648b6cf481b51de611652aa3fa1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 19:29:29 2019 -0500
+
+    test p=0.30
+
+commit 44161e72ede1ff4405d38ae3de25733a886e8060
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 19:25:15 2019 -0500
+
+    Test p=0.03
+
+commit fc2d0f2111b682f5433c3732368234f1f85b3e9f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 18:57:37 2019 -0500
+
+    p=0.03
+
+commit a2118afd9c87307280c921ed7e92d7648edae61a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 17:19:03 2019 -0500
+
+    Final working code, peace
+
+commit 627204f683952c0de3f743bc8aa16a1ba8398d48
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 17:15:59 2019 -0500
+
+    don't ignore .sh
+
+commit 6cc30240d9be778dbbf134e92a776b048f3d0409
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 17:05:26 2019 -0500
+
+    Change heartbeat period to 1 second, as some processes were taking  a little longer than 6 seconds to detect failure
+
+commit f22276881a3cc2fdbbd60bf5d048c6485c599e48
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 16:58:49 2019 -0500
+
+    minor
+
+commit 38e2b8ed7e8272a30cf9af6ec4c9d9bce794ec80
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 16:56:33 2019 -0500
+
+    Don't update monitors when MEMBER=0 and if any previous monitors, send REMOVE
+
+commit e795d39ff23d9f3d44cebfbb2681df623767a8b0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 16:04:48 2019 -0500
+
+    try to remove infinite looping in getPred, getSucc1, getSucc2
+
+commit 622352dc5f7b0e631226941ef2bcfdf4795185d3
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 15:51:07 2019 -0500
+
+    fix status message
+
+commit 82238d426d4af6561cbc0cbae9a2a1ae6a3cd968
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 15:49:35 2019 -0500
+
+    update maxID
+
+commit fcc2a8dfc5dcee96ebe700a82f7d91136648ebcb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 15:45:22 2019 -0500
+
+    minor
+
+commit f8784f316aaf6c29c65b2bf654fd4a021050da72
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 15:38:48 2019 -0500
+
+    logging, handle n=1
+
+commit 8e3115dc81f880314667f3298865e054a40b2325
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 04:11:02 2019 -0500
+
+    LEAVE working
+
+commit 5873dbb1d577afb2f2fd2fe2784b7e1a1c9a44d2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 04:05:44 2019 -0500
+
+    Add voluntary leave
+
+commit 67f0feda1f8c014a05ab816b26db0d24853a9f97
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 03:27:23 2019 -0500
+
+    added probabilistic packet drop and retries for UDP
+
+commit f2ae5b9ff082d743ebab622602d81ed12dd4bd41
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 02:46:29 2019 -0500
+
+    Move heartbeat send, receive, check children above everything
+
+commit 34ac97215b5ef51df0e68b95b908660bd0c3bdbb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 02:33:48 2019 -0500
+
+    fix
+
+commit 63200fe566bf083302afad35ad097f8e6815563e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 02:23:52 2019 -0500
+
+    fix
+
+commit 8d4d30e471d312153ae8fe265b26ef1cb2bae076
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 02:03:35 2019 -0500
+
+    fix
+
+commit dac518778ae9ebccb318a4048e35545158e616fa
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 01:45:24 2019 -0500
+
+    fix
+
+commit 53295f48ab9e50ec19221a95f79d357da407c0d0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 01:43:30 2019 -0500
+
+    check children
+
+commit 3bdc3edb02f0d289adb9f410af3143411b0a4a77
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 01:03:28 2019 -0500
+
+    garbage collect after 6 secs
+
+commit cec86c9f8fd85f1ed97715863af7e041284e7b56
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 00:49:25 2019 -0500
+
+    disseminate
+
+commit 07553c2036aa3e6834d0e3a46d450bcf3bd7c2ae
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Oct 6 00:47:51 2019 -0500
+
+    changes to dissemination
+
+commit 51f45b05128d180e9f19175fb0d5122be2a2f4eb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 23:41:18 2019 -0500
+
+    make garbage a set
+
+commit 36ccc0d634a9198c783b0f5ea08b67c38f7038eb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 22:16:33 2019 -0500
+
+    fix
+
+commit b75993a68b1ae7ca8f1033b5c31c16cb69a9fdb6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 21:59:01 2019 -0500
+
+    fix
+
+commit 307c389f8a65498c35261459860146ebdda3c8c8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 21:48:49 2019 -0500
+
+    fix
+
+commit 6e1d26d3705c58265bc3a189dd0785b4ed25a750
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 18:38:15 2019 -0500
+
+    fix
+
+commit 8c75e4cf39c22f60d5fcc9b80e4e07abeeeae357
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 18:36:31 2019 -0500
+
+    fix
+
+commit 1ddc9a72b16a05edbf0f9e4b5110bd33c911e826
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 18:10:12 2019 -0500
+
+    fix
+
+commit 94bc87fcba42c6b9d0c28b431d01cd4b1a1c7d27
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 17:39:45 2019 -0500
+
+    fix
+
+commit 4d0f14f9bc372ce9caa978860e442284544c887e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 17:19:23 2019 -0500
+
+    fix
+
+commit 6cbb6da17312dc9981a02c77e1d941abc10d1ae8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 17:17:36 2019 -0500
+
+    fix
+
+commit 34f688dd5511dd9b58df93dd9c07d30b3a5f8405
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 16:56:40 2019 -0500
+
+    fix
+
+commit 1fd4365d08bbb27a58c439d84d338aa846857d85
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 16:19:28 2019 -0500
+
+    fix
+
+commit 07ec588a18921c8a4897905b43aeb0d2f2e06ab6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 15:30:55 2019 -0500
+
+    fix
+
+commit 5c637564e217f0fde9a99df63d2eaac5013c3830
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 15:24:04 2019 -0500
+
+    fix
+
+commit 6228c9af77b80eb9dc6ebc7716c64e376b882211
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 15:22:20 2019 -0500
+
+    change introducer
+
+commit 6c497781f8e6f2ed5b3b2ee2707785d4e58bc286
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Oct 5 15:12:33 2019 -0500
+
+    minor
+
+commit 399c1cb4ace4c680b5f5ecc9e479ff0cfa6fdca0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:41:52 2019 -0500
+
+    Working code with Dissemination,Introducer crash and rejoin Handled
+
+commit 5dff947da2a5cbb05b7ce82c5aed701860929c58
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:35:20 2019 -0500
+
+    MaxID added
+
+commit 5733b64105ed7ba5049ba9fbc0fb3ae5440ddb2b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:30:54 2019 -0500
+
+    MaxID added
+
+commit cf0a7ec1335220a5c9b564a8f71c95cdfd939a5e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:27:10 2019 -0500
+
+    Garbage Collection- Err Handle
+
+commit 45c571d7f46b14c4d67dfc76ed8d8b687a136c4b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:20:18 2019 -0500
+
+    Garbage Collection- Err Handle
+
+commit c10e1ee6836306f287f82c93e2c7afc37538a317
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:14:39 2019 -0500
+
+    Garbage Collection- Err Handle
+
+commit 0ad379f5625335818a8fbad7b54b763c66204e88
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:10:45 2019 -0500
+
+    Garbage Collection- Err Handle
+
+commit 0038f25518c65ccadafb7af430fed2aa6a378e98
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:06:46 2019 -0500
+
+    Garbage Collection
+
+commit 0737d693130606a84b48241326d1bcac30ddab6a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:06:01 2019 -0500
+
+    Garbage Collection
+
+commit 058137c83c7161239503784cdf2a33629347f6cc
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 09:04:52 2019 -0500
+
+    Introducer Handled
+
+commit 3fbd57607f7187dfa173bb2882117f8a6b287511
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 08:25:56 2019 -0500
+
+    Introducer Handled
+
+commit 231fa7ceb99685d48c48a3332a9a473b941d0b46
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 08:16:20 2019 -0500
+
+    Introducer Handled
+
+commit 0194a3203bdf18fa69125f40834f2395ff7040f7
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 08:15:48 2019 -0500
+
+    Introducer Handled
+
+commit 97b374fec6971fd57b539fb9a1e32143a049fa14
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:57:48 2019 -0500
+
+    Introducer Handled
+
+commit 29b1b9ef033c565d50468a804536d8c153394adc
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:54:29 2019 -0500
+
+    Introducer Handled
+
+commit c2ac9cc9535dd9470e10a1c966272c41975a0e36
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:51:52 2019 -0500
+
+    Introducer Handled
+
+commit 20f26f071380725adb2dc7bc8469f1e15c9cb6d1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:48:08 2019 -0500
+
+    Introducer Handled
+
+commit ed37431d446589a371752407676089740c25862e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:44:15 2019 -0500
+
+    Introducer Handled
+
+commit cf94b95ad8dfa2a599dc2517ac884e44d94ec12e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:39:26 2019 -0500
+
+    Introducer Handled
+
+commit 0e3f1328788bd3fc90f9ed40d90afcdeacb7c87d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:14:16 2019 -0500
+
+    Introducer Handled
+
+commit 9e5de0f3512972bf8ee01f34314a81a01a8f9dbf
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:09:11 2019 -0500
+
+    Introducer Handled
+
+commit a2d3480e8c2cc2ce914dcd7ec9652ad786a1b0de
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:05:29 2019 -0500
+
+    Introducer Handled
+
+commit 410c6f1f6b6842f0e9c6d5b4b8972ad0ff1b2c4c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 07:00:27 2019 -0500
+
+    Introducer Handled
+
+commit 552ff2c1382337734d8eb82da248e05a84e6743a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 06:55:22 2019 -0500
+
+    Introducer Handled
+
+commit 4940958469da9e3574fff7378d5011d29e5038d6
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 06:49:37 2019 -0500
+
+    Introducer Handled
+
+commit bc03d7fd030c112fe7999bda79b464a5e297ca52
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 06:45:40 2019 -0500
+
+    Introducer Handled
+
+commit 0e0b00fca99f2321d5717ea05ce83c0bb6715bc3
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 05:18:48 2019 -0500
+
+    Dissemination Complete
+
+commit 839f7e4fd93f4cd43e85797b7b973d069ee84534
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 05:15:58 2019 -0500
+
+    Dissemination
+
+commit 598aa0346d5fb4e5595102e3c790232bfbde7316
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 05:00:44 2019 -0500
+
+    successor fixed
+
+commit 8df1a1e7adfe6245aaad565629ec6a74cd008a2d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:45:19 2019 -0500
+
+    Fix
+
+commit 16c324b8415d6300a0c8369b07af05d8bceb612c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:34:01 2019 -0500
+
+    Finger Code modified
+
+commit 96ff9623ce74fa545c41a4835109f20d8ceb6053
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:23:14 2019 -0500
+
+    Finger Code modified
+
+commit 461c127fbac034a7364d04dcd4d52102c79f6fd1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:20:43 2019 -0500
+
+    Finger Code modified
+
+commit cdeda5fdcf97a60a95272f1d7be3f4c0c3fc87e6
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:17:11 2019 -0500
+
+    Finger Code modified
+
+commit c3847084209cb4fef7543bcfe538b5e218b3d9da
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:10:19 2019 -0500
+
+    Finding finger Node size
+
+commit 6e2ccfb1fd3f2e8af64a128769fbb4efff39a73e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:04:31 2019 -0500
+
+    Modified CRASH message
+
+commit 14c1267d66e0adc7b0d40b8020ea8f241d467f3d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 04:00:52 2019 -0500
+
+    Modified CRASH message
+
+commit 69697df6a707941f1b33ad08e2583371ca803059
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 03:50:24 2019 -0500
+
+    Changed UpdateFinger Code
+
+commit d17fb97bcfe4f01ef07fa62767833b381b91b725
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 03:25:14 2019 -0500
+
+    Changed UpdateFinger Code
+
+commit 5ae2f037b5e628ae36e7424169537ae74e18a66d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 03:20:13 2019 -0500
+
+    Changed UpdateFinger Code
+
+commit 45f64d1eb77c5457619149ee6ef8c1ce662c7905
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 03:12:50 2019 -0500
+
+    Introducer to vm10
+
+commit 07de461b204fc463cb4138212f10a3d01ec17e3c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 03:10:38 2019 -0500
+
+    Introducer to vm10
+
+commit 11bb456064c3009deafc063abcc6e6007df64424
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Oct 5 03:09:30 2019 -0500
+
+    Disseminate Check
+
+commit 47d77779276814585456f39b1af4bb0f11e377bf
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 22:28:09 2019 -0500
+
+    Difference old and new monitors
+
+commit 32f52317c83f2294007cf9c78a14a77a8738afab
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 21:42:41 2019 -0500
+
+    fix
+
+commit b51fdac5e46c403199eeb7312c4dc7bb9454a079
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 21:25:44 2019 -0500
+
+    Remove from children if dead
+
+commit 739a4b42a73805af94e050d44171b477ecfb6277
+Merge: 11badff 6a2c85d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 21:18:23 2019 -0500
+
+    Merged conflicts
+
+commit 11badff2fa114db60ed3cb815f5a5586c4a92e5e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 20:53:20 2019 -0500
+
+    before merge bhavana
+
+commit 6a2c85d8018b06f8e02b73f0f0799ca2a290ceed
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Oct 4 20:49:39 2019 -0500
+
+    Minor Error on Var init
+
+commit 757a6f03e7aa8e9b900e3f5bf7da6d7ea4d2a046
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Oct 4 20:45:26 2019 -0500
+
+    before merge dipayan
+
+commit 332ee7e50bd8527296ceacb2ea25db5f770af80d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Oct 4 20:27:35 2019 -0500
+
+    Handled Crash and Suspect lists
+
+commit 7566740184b049739944fef7373b0e9fcfe25366
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Oct 4 19:44:44 2019 -0500
+
+    Changed membership to vm10
+
+commit 7e6e39ace854ebc3a564a7363141042b075b8432
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 18:15:17 2019 -0500
+
+    fix
+
+commit 7a0f53c6156af1ad788b93bf2b55059b48659fb9
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 18:07:51 2019 -0500
+
+    fix
+
+commit bc448f30b1fcd168d0336219ba548a85a9479c40
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 18:06:44 2019 -0500
+
+    fix
+
+commit 6130047841cb2a487ffbd4691346489b1f1a05e0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 18:04:02 2019 -0500
+
+    fix
+
+commit 133a1965a2699c8f113b77280710032fbd993f59
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 18:01:58 2019 -0500
+
+    fix
+
+commit 803776401cd052072fabd77452e45661dbd98c5d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:54:56 2019 -0500
+
+    fix
+
+commit 81a7c3fe03ed1cbefeb427a36b58620399102e98
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:53:35 2019 -0500
+
+    fix
+
+commit f903a4304389ba36962428773c93edb469a266b3
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:29:00 2019 -0500
+
+    fix
+
+commit e3fba29f2fc552f8d7834335ef3cf373c4122a83
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:27:10 2019 -0500
+
+    fix
+
+commit 2563ba6094131f709ae4416215f67eef69dbfd13
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:23:05 2019 -0500
+
+    fix
+
+commit af0a123906a810a8f65f0f1de464c5d54206cdfc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:21:54 2019 -0500
+
+    fix
+
+commit 26ab82d4b497795add5fb7ae02350e74e49f6dda
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:21:08 2019 -0500
+
+    fix
+
+commit 75e0a673845dcd7f2d5d30e0040378cf5eb3ac67
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:14:37 2019 -0500
+
+    run script
+
+commit 9b036e2bf15b95312098dd85d8b5e95e354e0cd5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:12:00 2019 -0500
+
+    fix
+
+commit b9ffd6ca225bbc123a79ec5fa48289adcaf66a68
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:03:44 2019 -0500
+
+    fix
+
+commit ba168af90ecffb42b787966a6bc4d91cda3bbba3
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:02:42 2019 -0500
+
+    fix
+
+commit 2fbed993b4a40796f469867ad6c7b26d93875849
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 17:01:51 2019 -0500
+
+    fix
+
+commit 298075d031c2535b9c51c95aceb0cd6f525e700f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:41:33 2019 -0500
+
+    fix
+
+commit d8a8a2b82baeab478375d219c9f523ab7450aa3f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:40:28 2019 -0500
+
+    fix
+
+commit 9fdbf1b494b2ce1fac7ecf5fa14158fc175b897c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:35:02 2019 -0500
+
+    fix
+
+commit de094a854fbef85bb013deb36ab757691a010878
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:30:55 2019 -0500
+
+    fix
+
+commit e9832f95e0fb1b50a63463d7a7beb94be4e53774
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:29:02 2019 -0500
+
+    fix
+
+commit 56a3bdbbb8e0aca872ca4a1fa68b779c3d5b7bc1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:24:47 2019 -0500
+
+    fix
+
+commit b6032a18e5914bb9d4ef6f57c94271bba8240eaa
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:21:51 2019 -0500
+
+    fix
+
+commit 4604a4c1b1f655ea5296aac883d88df4a302ebcb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:19:26 2019 -0500
+
+    fix
+
+commit d5cb5d80f6e6c9db0251c36791c199bf1fb5d4b2
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:15:55 2019 -0500
+
+    fix
+
+commit 1bcff779310ed38c981b1d82cca29ef840918350
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:12:10 2019 -0500
+
+    fix
+
+commit 98de46935039cb6245db8cb2bfde97bfd9def2b3
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:09:10 2019 -0500
+
+    fix
+
+commit 8cbe7632304f42b57120930f11b29b282127cc9f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Fri Oct 4 00:05:47 2019 -0500
+
+    fix
+
+commit 640b853c0478e247f4acbd18e0df7393b529f363
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 23:55:45 2019 -0500
+
+    fix
+
+commit 5d3766468416635923415a7926311cff577d021c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 23:46:02 2019 -0500
+
+    fix
+
+commit f5bc6004f975a20db5b0250f5910b543fb70a1e1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 23:39:36 2019 -0500
+
+    fix
+
+commit 3556299dac0b1ce55697bef778e035aa4ca5947f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Oct 3 23:26:58 2019 -0500
+
+    comments
+
+commit a601062886ffca5d41553ce0931a01e602448274
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 22:10:46 2019 -0500
+
+    Compilable
+
+commit f47e77e2ce8de4eb8928b560ea355a7323829573
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 21:55:57 2019 -0500
+
+    ADD, REMOVE, JOIN, LEAVE, CRASH func
+
+commit 12a11cff407118a1889a23b7948528a9bca310e0
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 21:18:11 2019 -0500
+
+    fix
+
+commit 7ba8243d07674657138b3895fb4fbd7c080272bd
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 19:14:43 2019 -0500
+
+    fix
+
+commit 97ec57659ee74f35fd8894dca78240ffbec07b0e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:56:14 2019 -0500
+
+    fix
+
+commit 9d0a2372ebd661c8cd9757ebff5e09af2a5764d9
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:51:32 2019 -0500
+
+    fix
+
+commit 0955ae44cd6bd277a513f831710d6a72a8104f99
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:48:40 2019 -0500
+
+    fix
+
+commit 1961ebbaf57a05eb12182989eef7fe925d22f1bd
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:47:55 2019 -0500
+
+    fix
+
+commit 24ac7aa0b7ca603dc2f33cb5294e69ce5132975f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:41:16 2019 -0500
+
+    fix
+
+commit 170875c89ee296dd900992a925143a39a38f87d4
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:39:01 2019 -0500
+
+    fix
+
+commit 5b4641fd43e932f8095c5715bccab58147cc8151
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:38:20 2019 -0500
+
+    fix
+
+commit 7239846fd45d0f6d087397a3f992c11cc60c2bed
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:25:02 2019 -0500
+
+    fix
+
+commit fdb16abdcc605569bbb32a9ea45491bac8151c50
+Merge: 6c120e5 2a5208f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:21:57 2019 -0500
+
+    merge
+
+commit 6c120e56c1e1e3d62eaf29ea02ec7008a3cca89f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:19:11 2019 -0500
+
+    remove resolve addr
+
+commit 2a5208f95af02b9d6dde344b908b1e915fea9df1
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Oct 3 17:11:20 2019 -0500
+
+    Intro changed
+
+commit ccdc869d8d05e8d2a38d9c2a4d0d9bd7509253b5
+Merge: a0b0f1c 4427f64
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Oct 3 17:08:33 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit a0b0f1c4ebb5f2756b39798c34dcae98d9c99493
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Oct 3 17:08:20 2019 -0500
+
+    addr fix
+
+commit 4427f647f181c91cd78bf292131def61328b858b
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:04:32 2019 -0500
+
+    fix
+
+commit 978292d8e66326b6589ce08eaf9ff9a464a7934c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:04:01 2019 -0500
+
+    fix
+
+commit 607a502a64744bd4ca434153c30b5e9ea2a9c7cd
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 17:01:23 2019 -0500
+
+    fix
+
+commit 1591b195b329a114094e785b62c3379b85d958b5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 16:59:51 2019 -0500
+
+    fix
+
+commit c264af2a7bb1b726ef79f84c3ca51bbd258db38c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 16:53:32 2019 -0500
+
+    resolve UDP addr
+
+commit 73d8e28a5e74e86a42d092a747c4893aaa1a8459
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 16:46:23 2019 -0500
+
+    logging, run funcs
+
+commit 0d42ac3a45bee9b1e3ad1b36bf4a5bff94a9665e
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 16:40:13 2019 -0500
+
+    add intro ip
+
+commit d9ae76ea3923c4d832162af7ec9889f604fc8b8d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 16:38:35 2019 -0500
+
+    Test introducer, compiles successfully
+
+commit 5d3ab3bdcb03275b167356011733c3c61ce8d4b4
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Thu Oct 3 13:10:34 2019 -0500
+
+    Major functionality; not tested
+
+commit 338936785f1addeecf34c9e909f83fb4198a514c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Oct 3 11:01:12 2019 -0500
+
+    Pseudo Code for Dissemination
+
+commit f00e944479747eed49c5ac37ac61ca03b385fa13
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 18:19:07 2019 -0500
+
+    HeartBeat Testing
+
+commit 4f721ef8412ceaaf6675feae022d30cf30a91875
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 18:17:49 2019 -0500
+
+    HeartBeat Testing
+
+commit 9973343c14bc973899f0b3df15f7ffb861b9c72e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 18:15:38 2019 -0500
+
+    HeartBeat Testing
+
+commit 5af8350813bfe47191363bd7c7729df666823d51
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 18:09:07 2019 -0500
+
+    HeartBeat Testing
+
+commit ff5e8a358ac66385f25b2492a4403004e72f282d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 18:07:14 2019 -0500
+
+    HeartBeat Testing
+
+commit d3cad87be1e7d93cfb01e6527866460beb16d63e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 18:05:08 2019 -0500
+
+    HeartBeat Testing
+
+commit a140756ce1c43145985415678a3c51c81f101d99
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 18:02:04 2019 -0500
+
+    HeartBeat Testing
+
+commit cad48a5d26fd43c6347a3a640ff9ef4f571b2be8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Wed Oct 2 17:44:48 2019 -0500
+
+    MP2 HeartBeat
+
+commit ecbc45e343cfbc5ab2a22e5c0e7d81db92766254
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Sep 28 17:24:14 2019 -0500
+
+    Initial structure as pseudo code
+
+commit 3a2366b74e7a9e7d744b46e1199fde7c3c8d4b03
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Sep 28 16:56:00 2019 -0500
+
+    MP2 files
+
+commit 151dd4347686a68507a2135e19381115eb036bf8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Sep 28 15:13:52 2019 -0500
+
+    First MP2 Commit
+
+commit 5c09f6060e9442b5b1b88c719c27e8ea86776258
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Sun Sep 15 22:44:07 2019 -0500
+
+    Update README.md
+
+commit a060c8b9cc954a87a21b7cd27b9b524cf4c78537
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Sun Sep 15 22:43:20 2019 -0500
+
+    Update README.md
+
+commit 51712637ee4a9c73351dbc61285dd83bf54ef5aa
+Author: bmjain2 <bmjain2@illinois.edu>
+Date:   Sun Sep 15 22:42:17 2019 -0500
+
+    Update README.md
+
+commit 7ee53404e81a6e906a6ef962b5e9cb87b2096079
+Merge: 710c44f d957a73
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 22:34:50 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit 710c44ffec1650aea9bb1e5469c2ce410408a428
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 22:34:40 2019 -0500
+
+    cleanup
+
+commit d957a734efe5a84e0be841282382a8076b16281b
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 22:34:09 2019 -0500
+
+    Update README.md
+
+commit 8f5f9e46c31da86de455b4dcf466088065a1c100
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 22:32:22 2019 -0500
+
+    Update README.md
+
+commit 2b0ba8aaaa0532c5c31f5aad809af823e5afe5a5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 22:30:28 2019 -0500
+
+    cleanup
+
+commit e6d263e7ec87394e27a15f08b1b1183d3a1dafc1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 22:24:29 2019 -0500
+
+    Add report
+
+commit 9466bfc25005d4cd492800a99fec423b88889947
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 21:48:25 2019 -0500
+
+    test
+
+commit b8083aa9615b040ba2a5b18b75c0964cfb216167
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 21:47:10 2019 -0500
+
+    test
+
+commit c4e60b54ed997cef1acc2e51951dfb71678edfd3
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 21:43:08 2019 -0500
+
+    test
+
+commit 78b70134a125ad5919b1f2e9ab89792b7271aa0a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 21:31:25 2019 -0500
+
+    test
+
+commit 4b8d94f81f6bd155fb0c0ec2b94100c4e5eea18e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 21:25:24 2019 -0500
+
+    Testing
+
+commit 02f4572e68010156714989ab39552ad0a8a6ac9e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 21:22:57 2019 -0500
+
+    Testing
+
+commit 4abee177a98149621cd5981a99350e3b86a4354d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 20:47:01 2019 -0500
+
+    fix
+
+commit 6abce00f67a6971a13d65d1d69aff87ade1278c2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 20:46:15 2019 -0500
+
+    fix
+
+commit 456d5f3fce4f0f391f9a11a3d918187e38f3124a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 20:43:29 2019 -0500
+
+    Take 2
+
+commit 024281a739baa74073664df9a0f218e6714af113
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 20:41:13 2019 -0500
+
+    Take 2
+
+commit d10ef76bfd061c57f0b81baf71b6ba024dd6ea6d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 19:58:13 2019 -0500
+
+    fix
+
+commit b0343fe45ce7b9d9d95630efcde98c72d3578c2d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 19:39:32 2019 -0500
+
+    Test
+
+commit 26f6f1186ca27095568f9e2b7bc26ac8d266fc25
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 19:31:04 2019 -0500
+
+    test
+
+commit b1f241562bb50cdac565fbad9a64f31dcb2dee93
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 19:24:02 2019 -0500
+
+    Test
+
+commit 6af0496e62cc3181477d77723f03dc2dd2583f39
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 19:06:53 2019 -0500
+
+    Test
+
+commit 2778dceec3e51cc7dfb39444337d19776fdf32b4
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 19:02:20 2019 -0500
+
+    fix
+
+commit 3055402cf64f719f251808262553c4973f66184b
+Merge: ec6bdf0 71e9ad1
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 19:00:20 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit ec6bdf06b6ecb921f1c81cff4a6db89e38bc2b95
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 19:00:04 2019 -0500
+
+    README.md
+
+commit 71e9ad133f532ea6ce63d74c40aa63a2327467ee
+Author: Mukherjee <dipayan2@fa19-cs425-g31-06.cs.illinois.edu>
+Date:   Sun Sep 15 18:51:04 2019 -0500
+
+    Test
+
+commit 4ed4364fd037da0696ecbb490f12f6a8eba85745
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 18:36:12 2019 -0500
+
+    Test
+
+commit df17fa9e6c3f75e8e0b8603f525be7d8401594c2
+Merge: cc31c41 2237038
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 18:34:16 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit cc31c419b63a8557bcee15e546f7c83953376d50
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 18:34:06 2019 -0500
+
+    TestFile
+
+commit 223703846cbc3f0d7227d19c04fe5e31b06b0273
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 18:33:20 2019 -0500
+
+    Minor
+
+commit b776b4b129c39cf5999c2c7fed605ac1b0d78baa
+Author: Jain <bmjain2@fa19-cs425-g31-05.cs.illinois.edu>
+Date:   Sun Sep 15 18:30:25 2019 -0500
+
+    remove reflect
+
+commit 5e8c2ba01d68dc13cbbd7e010236a0529bb9c201
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 18:26:02 2019 -0500
+
+    undo print statements
+
+commit 97d7b8b7cee491d7816e7cd93d068f50d98c902a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 17:50:13 2019 -0500
+
+    undo adding scripts
+
+commit e84d7fd8de6cf79dfbd8d121af646538c848254b
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 17:45:57 2019 -0500
+
+    clean-up w/o testing
+
+commit 1ec26e216b810ed0ca198b6b9c9e2cde26ba39f2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 15:31:00 2019 -0500
+
+    Near fn pusgh
+
+commit 02c829e47c8c2f0b36ff05f6529e3fe44d4b4bf2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 15:22:22 2019 -0500
+
+    Handle invalid regexp
+
+commit 70d93ba23fe01c6747bda6772dfdadbffa32c52e
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 15:15:18 2019 -0500
+
+    fix
+
+commit 991b814c956745c5149c02525afbcd94e1bd366d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 14:57:14 2019 -0500
+
+    fix % errors
+
+commit bd06c3197930e693e80b20c74d1b682b802102b8
+Author: Mukherjee <dipayan2@fa19-cs425-g31-06.cs.illinois.edu>
+Date:   Sun Sep 15 14:55:10 2019 -0500
+
+    fix
+
+commit 7255ed8082c8d9248fdccce177f1da6e77aa0ce8
+Author: Mukherjee <dipayan2@fa19-cs425-g31-06.cs.illinois.edu>
+Date:   Sun Sep 15 14:48:00 2019 -0500
+
+    fix
+
+commit 098b75011137c6de15b30925f9ce7717744f3e6d
+Author: Mukherjee <dipayan2@fa19-cs425-g31-06.cs.illinois.edu>
+Date:   Sun Sep 15 14:45:58 2019 -0500
+
+    fix
+
+commit d4fa8e344aeab4fbe2114143ce1969c73fba30bd
+Author: Mukherjee <dipayan2@fa19-cs425-g31-06.cs.illinois.edu>
+Date:   Sun Sep 15 14:43:11 2019 -0500
+
+    server printing
+
+commit 4246da0988b9d69b5793c075e89b1be540bcb566
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 14:03:15 2019 -0500
+
+    fix
+
+commit 0446b45c7b8bf4a83307eb1ded4150f2f146b684
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 14:00:53 2019 -0500
+
+    % error
+
+commit bbe899e175173be1933395a4abf63c3ff091885f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 13:59:35 2019 -0500
+
+    Test %
+
+commit fcf1fd37ba83f15f6033cdf47cca3dee4c51132d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 13:49:42 2019 -0500
+
+    remove line count
+
+commit 0b056383142ec7becc434df808cc56b8e1ee50cb
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 13:41:08 2019 -0500
+
+    Mismatch on .*
+
+commit f81040f89c2a77643c7fab42b1d7514ccee4f513
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 13:39:58 2019 -0500
+
+    Mismatch on .*
+
+commit 4075fff2c556fef8ba832796dee5407a8883ca18
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 13:34:09 2019 -0500
+
+    Test mismatch
+
+commit b1ef1f57d340aaf13034004f054a9ba7965f3dd8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 13:12:01 2019 -0500
+
+    Check len of line before processing
+
+commit e783ec35adcac0cf71093ffc02f895ffb3f4b7e5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 12:34:34 2019 -0500
+
+    Testing
+
+commit 6042a7c79884f8c8a10ac02e6f6f9d0cbf3100b5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 12:26:50 2019 -0500
+
+    Client Test Listener closed
+
+commit f105ac852058d3f6cb7f2c301804b1f8136bcb05
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 12:25:14 2019 -0500
+
+    Client Test Listener closed
+
+commit d726007e3eb7f278d81d33d08ab15c3e6d9d8be8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 12:18:21 2019 -0500
+
+    Dist Frequent Added
+
+commit 2711a99cc8a617c62a8bdf1a2284089fd641a087
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 12:16:20 2019 -0500
+
+    Dist Test Complete
+
+commit 13b4520287243753a112127bc3242cf9b4ba3072
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 11:30:44 2019 -0500
+
+    Testing - v2
+
+commit 3ef2a65d437e19bd1f8a11f9cbf5cc5dd2e37af5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 11:25:09 2019 -0500
+
+    Dist Test Verification - V1
+
+commit 72d189821f8dc47404278a75f411a0abaf8c6842
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 11:21:05 2019 -0500
+
+    Dist Test Verification
+
+commit 4faef114f66f5f11eb1e9d3def9523457a10c867
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 11:18:34 2019 -0500
+
+    Dist Test Verification
+
+commit 873576f3616598d48dc5fe2e2bfbae0b699d6ae5
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 11:14:30 2019 -0500
+
+    Dist Test Final
+
+commit 7243b47203ce319825ebf3d240e05339d76a85f0
+Merge: 79495fd 02e80de
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 11:09:53 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit 79495fd31b9593a5e3be8ab9ee0178f38be71822
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 11:09:42 2019 -0500
+
+    Dist Test
+
+commit 02e80de73762e90a7e639c53e933f0bceb0346eb
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:36:53 2019 -0500
+
+    Mostly working version
+
+commit 6be83dab8a56f02dc1b5bae52a84d2ea9a8feb37
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:31:54 2019 -0500
+
+    .Close after err handling
+
+commit 82b23c207460305b5570ec0240bac9221741a1e3
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:29:05 2019 -0500
+
+    testing
+
+commit 039d4844c3bb88eadfd9a5312b949a3868c64570
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:28:02 2019 -0500
+
+    testing
+
+commit f5daf2304a69967c9047a6e406c149d89d8cf327
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:25:38 2019 -0500
+
+    minor
+
+commit 7812ba8be72106fa2b6b57f151609612f0310a3f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:23:54 2019 -0500
+
+    minor: print serverMap
+
+commit 9aaed9c8f5ab5e096c0dc8f03f9c24166c981841
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:07:39 2019 -0500
+
+    minor
+
+commit 5bb3f2896de8f35730dbe44099913385f7f302c8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:02:42 2019 -0500
+
+    minor
+
+commit be5a64665a83548f001f21962fce59cddfe79a82
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 05:01:37 2019 -0500
+
+    minor
+
+commit fbe202d471d28b52ae5c768a8d8d59174b7e251a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:59:42 2019 -0500
+
+    minor
+
+commit b442cf8025885b13eebcc882e4e846498aa47b2f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:53:35 2019 -0500
+
+    minor
+
+commit 3965af2efb7d505b077709c818f3bd3a47b1d3f4
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:49:17 2019 -0500
+
+    minor
+
+commit d6abd53ecc883377a5cfca7835d67a50813c3173
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:46:45 2019 -0500
+
+    fix EOF error
+
+commit 73a2580bb65e987a7e1249e198c1ce036b0d31b8
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:40:29 2019 -0500
+
+    minor
+
+commit 82fc16a340d97b621aca4f8d2f5a183cebf63fc6
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:38:05 2019 -0500
+
+    minor
+
+commit e2b2ca39966dc600d75619925b5be3f9447b770c
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:32:39 2019 -0500
+
+    Minor
+
+commit 11b4ba6958758cd13d0cdb8b08571ac6d8b8bc01
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:27:13 2019 -0500
+
+    Minor fix
+
+commit 5ed87e5d0a6ba3b1325f5497800775c6fb788a7f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:27:13 2019 -0500
+
+    Minor fix
+
+commit 3eaec12ab7f58f6b8b1d5da0640d047e8e7d9bd5
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:25:45 2019 -0500
+
+    Minor fix
+
+commit 2f86a1fe2d01752d4811ff85d5b37ee9e3734f58
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:23:18 2019 -0500
+
+    Minor fix
+
+commit ceffc150d49be398ce5ba6fd663751a2252fb631
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:17:02 2019 -0500
+
+    Minor fix
+
+commit cb2ef9f0ed2ca5ee3fd1e4472936fe9fa5857b21
+Merge: 587a95b 0bc5515
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:09:12 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit 587a95b435cb3c40450ca99763853332e95caa96
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sun Sep 15 04:08:52 2019 -0500
+
+    Addressed final comments for the client and server, testing left
+
+commit 0bc551594a657a93d72f8a612e99eac2c669ae52
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 02:59:38 2019 -0500
+
+    Dist Test Server modified-3
+
+commit f40e93caae41a19d7308fae2555c25a96ed85375
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 02:53:36 2019 -0500
+
+    Dist Test Server modified-2
+
+commit 0c0173b1cb9e01bec4c418eca68d54db09da3beb
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 02:53:06 2019 -0500
+
+    Dist Test Server modified-1
+
+commit 2e7133ef99aece9fe47d9eecbff15673293a3d9a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 02:52:04 2019 -0500
+
+    Dist Test Server modified
+
+commit b7a0ea8771793953598d2ac39e087acb5cbe73a0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 02:47:23 2019 -0500
+
+    Working Distributed Test
+
+commit 295381c05c366139d4d08ba925a33d45e8a3d7ca
+Merge: 4874293 37167a9
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 00:28:48 2019 -0500
+
+    Merge branch 'master' of gitlab.engr.illinois.edu:dipayan2/cs425
+
+commit 487429387ea5fe195732af4b7082905a2de64fbd
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sun Sep 15 00:28:35 2019 -0500
+
+    Testing -- not complete: Don't Test
+
+commit 37167a9e36e682707a49c95d2cac8ba9d7d3b77a
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Sep 14 21:19:58 2019 -0500
+
+    Void commit
+
+commit e409dc806acc300fa1cca5ed2185bafb8865b4f1
+Author: root <root@fa19-cs425-g31-01.cs.illinois.edu>
+Date:   Sat Sep 14 20:23:24 2019 -0500
+
+    Test Code
+
+commit b07bc3b560ca2ccc644cae0632d0d28f36d29a4c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Sep 14 19:18:56 2019 -0500
+
+    Testing Boy
+
+commit cdd1efd82b26eca20c2396afb622b9561b2c9c0e
+Author: root <root@fa19-cs425-g31-04.cs.illinois.edu>
+Date:   Sat Sep 14 15:25:12 2019 -0500
+
+    Added VM server info
+
+commit 012555eccfa3326b36dc35af507314e7037d8393
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Sat Sep 14 13:08:50 2019 -0500
+
+    EOF error handled
+
+commit 6715f799c6f59fef225dc2215dfc7a27facb92dc
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Sep 14 12:58:21 2019 -0500
+
+    Minor fix - undo newline
+
+commit 3d9dce9934a0012aa6d3236413d26e92b327357d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Sep 14 12:56:59 2019 -0500
+
+    Change delimiter for linenum and line
+
+commit fb5c950729b78de167fc4c01bfe562b487849190
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Sep 14 12:52:05 2019 -0500
+
+    Minor fix - add newline
+
+commit 65a3aad1a0a5e5921db7408badb91c9bfb3cbf4d
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Sep 14 12:47:05 2019 -0500
+
+    Minor fix
+
+commit 42b203584c23f133813bfa378df6a1019d9bb29f
+Author: Bhavana Jain <cs14btech11008@iith.ac.in>
+Date:   Sat Sep 14 12:35:49 2019 -0500
+
+    Read server info from a file, send lines as soon as matched
+
+commit a48cc721662dfa1930f6e732ce4bcac1c6b73c75
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Sep 12 17:32:43 2019 -0500
+
+    Possible Error Handling in Server
+
+commit e0365c065d0dffa64c8d3879cf7bd147b3b8e9f3
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Sep 12 17:06:13 2019 -0500
+
+    Sleeping between sending matches to client
+
+commit a0650b632a0fc805e0c35f3c8dac7996c8ba953a
+Author: Mukherjee <dipayan2@fa19-cs425-g31-01.cs.illinois.edu>
+Date:   Thu Sep 12 01:19:08 2019 -0500
+
+    Working server with multithreading is server_dip
+
+commit 278aecce260a97e4851f9f70fd608fb78291606a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Sep 12 00:55:48 2019 -0500
+
+    Error handling
+
+commit ef74c3ecf8555efe7458818880b60f6cd537e9f9
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Sep 12 00:53:24 2019 -0500
+
+    Bold removed for test
+
+commit 061aaa45311e1712617fc63862df2653dbb684c8
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Sep 12 00:44:31 2019 -0500
+
+    IP updated
+
+commit 1ed01f6891926a464141cc60d325810c47652d73
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Thu Sep 12 00:34:36 2019 -0500
+
+    Multi-Threading added
+
+commit 5fe7f02c47cee5413848e2880267b078644d2f0f
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 21:49:29 2019 -0500
+
+    Colored matches
+
+commit 3cef7aa9ea2a727578702ce1169eb96bb47e3d8d
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 21:33:33 2019 -0500
+
+    fix
+
+commit ddeeb5ec7fde5f9e9a18b9e93b415b62a874f067
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 21:19:03 2019 -0500
+
+    Fixed the loop error
+
+commit 5ce9b333ad10d391d3391408466076fc0eea4c57
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 19:24:38 2019 -0500
+
+    Client Looping Err
+
+commit 7dd6b8a9df2a78cf564b2a2eb91ce61948662c9a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 19:15:42 2019 -0500
+
+    Client Working
+
+commit f22b0b1a094fb6b36ebc206353e21844318eded3
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 18:53:02 2019 -0500
+
+    Delete gracefully
+
+commit 13cc065c9481e109416762a564b20a02b5a96897
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 18:52:07 2019 -0500
+
+    Setting up gitignore
+
+commit 5b961904706d9f3d49f808a2d6a1b43c9bf3fd36
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 18:51:07 2019 -0500
+
+    Gitignore file
+
+commit b499c2a578f3c7634d91e8c51be59ece34058687
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 18:49:44 2019 -0500
+
+    Sequential server and client
+
+commit 6c859ff311ac20fb703c63e3b78a62c01c47756c
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 17:02:06 2019 -0500
+
+    HeartBeat Test
+
+commit c16c8042931abf47890e04e71510bf5a0220ccc0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 16:59:28 2019 -0500
+
+    My test Heartbeat
+
+commit f9b14252c0bf5ca56349d8c79699392f00ec1af2
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 16:54:09 2019 -0500
+
+    My test
+
+commit 478118f52f47a6c2aebfb4b3b87bba50375d69b0
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 16:53:09 2019 -0500
+
+    My test
+
+commit eedbf640aee189077b179b938a6b05b391df2b2a
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Sep 6 16:51:37 2019 -0500
+
+    Test Commit
+
+commit 0fb65f951496b9d51853e2c4fbc8941a35d4c1ff
+Author: dipayan2 <dipayan2@illinois.edu>
+Date:   Fri Aug 30 15:22:40 2019 -0500
+
+    Init Commit

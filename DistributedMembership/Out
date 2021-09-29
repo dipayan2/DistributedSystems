@@ -1,0 +1,1159 @@
+Apple Pay:
+
+      Apple Pay Information:  
+        Platform ID: J5H1M3012DD40000
+        Serial Number: 04174CF3603F800170211414349405074FD1238EA3EAF9DD
+        Device: 0x20
+        Production Signed: Yes
+        Restricted Mode: No
+        Hardware: 0x00000045
+        Firmware: 0x0931
+        JCOP OS: 6.03
+
+      Controller Information:  
+        Hardware: d.2 (PN66v ES1.1)
+        Firmware: 1.50 rev 66673
+        Middleware: 3.0.2.20
+
+Audio:
+
+    Devices:
+
+        Built-in Microphone:
+
+          Default Input Device: Yes
+          Input Channels: 2
+          Manufacturer: Apple Inc.
+          Current SampleRate: 44100
+          Transport: Built-in
+          Input Source: Internal Microphone
+
+        Built-in Output:
+
+          Default Output Device: Yes
+          Default System Output Device: Yes
+          Manufacturer: Apple Inc.
+          Output Channels: 2
+          Current SampleRate: 44100
+          Transport: Built-in
+          Output Source: Internal Speakers
+
+Bluetooth:
+
+      Apple Bluetooth Software Version: 6.0.14d3
+      Hardware, Features, and Settings:
+          Address: DC-A9-04-74-14-C3
+          Bluetooth Low Energy Supported: Yes
+          Handoff Supported: Yes
+          Instant Hot Spot Supported: Yes
+          Manufacturer: Broadcom
+          Transport: UART
+          Chipset: 20703A2
+          Firmware Version: v76 c4289
+          Bluetooth Power: Off
+          Discoverable: Off
+          Connectable: Yes
+          Auto Seek Pointing: On
+          Remote wake: On
+          Vendor ID: 0x05AC
+          Product ID: 0x007E
+          Auto Seek Keyboard: On
+      Devices (Paired, Configured, etc.):
+          Dipayan’s iPad:
+              Address: FC-1D-43-1E-56-B9
+              Major Type: Miscellaneous
+              Minor Type: Unknown
+              Services: 
+              Paired: No
+              Configured: Yes
+              Connected: No
+              Firmware Version: 0x0000
+          HD 4.50BTNC:
+              Address: 00-16-94-1C-10-C3
+              Major Type: Audio
+              Minor Type: Headset
+              Services: Headset, Hands-Free unit
+              Paired: Yes
+              Configured: Yes
+              Connected: No
+              Manufacturer: Cambridge Silicon Radio (0x6, 0x21C8)
+              Firmware Version: 0x0000
+              Vendor ID: 0x0A12
+              Product ID: 0x0001
+              EDR Supported: Yes
+              eSCO Supported: Yes
+              SSP Supported: Yes
+      Services:
+          Bluetooth File Transfer:
+              Folder other devices can browse: ~/Public
+              When receiving items: Accept all without warning
+              State: Disabled
+          Bluetooth File Exchange:
+              Folder for accepted items: ~/Downloads
+              When other items are accepted: Save to location
+              When receiving items: Accept all without warning
+              State: Disabled
+          Bluetooth Internet Sharing:
+              State: Disabled
+      Incoming Serial Ports:
+          Bluetooth-Incoming-Port:
+              RFCOMM Channel: 3
+              Requires Authentication: No
+
+Camera:
+
+    FaceTime HD Camera:
+
+      Model ID: UVC Camera VendorID_1452 ProductID_34304
+      Unique ID: 0x1410000005ac8600
+
+Controller:
+
+    Controller Information:
+
+      Model Name: Apple T1 Security Chip
+      Firmware Version: 14Y904
+
+Diagnostics:
+
+    Power On Self-Test:
+
+      Last Run: 26/09/19, 9:57 AM
+      Result: Passed
+
+Ethernet Cards:
+
+    iBridge:
+
+      Type: USB
+      BSD name: en5
+      Kext name: AppleUSBNCM.kext
+      Location: /System/Library/Extensions/AppleUSBNCM.kext
+      Version: 5.0.0
+      MAC Address: ac:de:48:00:11:22
+      Product ID: 34304
+      Vendor ID: 1452
+
+Firewall:
+
+    Firewall Settings:
+
+      Mode: Limit incoming connections to specific services and applications
+      Services:
+          Printer Sharing: Allow all connections
+      Applications:
+          com.apple.WebKit.Networking: Allow all connections
+          com.bittorrent.uTorrent: Allow all connections
+          com.google.android.studio: Allow all connections
+          com.readdle.PDFExpert-Mac: Allow all connections
+          com.spotify.client: Allow all connections
+          com.wolfram.Mathematica: Allow all connections
+      Firewall Logging: Yes
+      Stealth Mode: No
+
+Graphics/Displays:
+
+    Intel Iris Graphics 550:
+
+      Chipset Model: Intel Iris Graphics 550
+      Type: GPU
+      Bus: Built-In
+      VRAM (Dynamic, Max): 1536 MB
+      Vendor: Intel
+      Device ID: 0x1927
+      Revision ID: 0x000a
+      Metal: Supported, feature set macOS GPUFamily2 v1
+      Displays:
+        Color LCD:
+          Display Type: Built-In Retina LCD
+          Resolution: 2560 x 1600 Retina
+          Framebuffer Depth: 24-Bit Color (ARGB8888)
+          Main Display: Yes
+          Mirror: Off
+          Online: Yes
+          Rotation: Supported
+          Automatically Adjust Brightness: No
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro13,2
+      Processor Name: Intel Core i5
+      Processor Speed: 2.9 GHz
+      Number of Processors: 1
+      Total Number of Cores: 2
+      L2 Cache (per Core): 256 KB
+      L3 Cache: 4 MB
+      Hyper-Threading Technology: Enabled
+      Memory: 8 GB
+      Boot ROM Version: 259.71.1.0.0
+      SMC Version (system): 2.37f20
+      Serial Number (system): C02TQ1Q6HF1P
+      Hardware UUID: 7D1CA6DE-45E1-564C-8937-C7E728554020
+
+Locations:
+
+    Automatic:
+
+      Active Location: Yes
+      Services:
+        LPSS Serial Adapter (1):
+          Type: PPP
+          IPv4:
+              Configuration Method: PPP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              FTP Passive Mode: Yes
+          PPP:
+              ACSP Enabled: No
+              Display Terminal Window: No
+              Redial Count: 1
+              Redial Enabled: Yes
+              Redial Interval: 5
+              Use Terminal Script: No
+              Dial on Demand: No
+              Disconnect on Fast User Switch: Yes
+              Disconnect on Idle: Yes
+              Disconnect on Idle Timer: 600
+              Disconnect on Logout: Yes
+              Disconnect on Sleep: Yes
+              Idle Reminder: No
+              Idle Reminder Time: 1800
+              IPCP Compression VJ: Yes
+              LCP Echo Enabled: Yes
+              LCP Echo Failure: 4
+              LCP Echo Interval: 10
+              Log File: /var/log/ppp.log
+              Verbose Logging: No
+        LPSS Serial Adapter (2):
+          Type: PPP
+          IPv4:
+              Configuration Method: PPP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              FTP Passive Mode: Yes
+          PPP:
+              ACSP Enabled: No
+              Display Terminal Window: No
+              Redial Count: 1
+              Redial Enabled: Yes
+              Redial Interval: 5
+              Use Terminal Script: No
+              Dial on Demand: No
+              Disconnect on Fast User Switch: Yes
+              Disconnect on Idle: Yes
+              Disconnect on Idle Timer: 600
+              Disconnect on Logout: Yes
+              Disconnect on Sleep: Yes
+              Idle Reminder: No
+              Idle Reminder Time: 1800
+              IPCP Compression VJ: Yes
+              LCP Echo Enabled: Yes
+              LCP Echo Failure: 4
+              LCP Echo Interval: 10
+              Log File: /var/log/ppp.log
+              Verbose Logging: No
+        Wi-Fi:
+          Type: IEEE80211
+          BSD Device Name: en0
+          Hardware (MAC) Address: dc:a9:04:74:59:9b
+          IPv4:
+              Configuration Method: DHCP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              Exceptions List: *.local, 169.254/16
+              FTP Passive Mode: Yes
+          IEEE80211:
+              JoinModeFallback: DoNothing
+              PowerEnabled: 1
+              RememberJoinedNetworks: 1
+              Version: 2500
+        Bluetooth PAN:
+          Type: Ethernet
+          BSD Device Name: en6
+          IPv4:
+              Configuration Method: DHCP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              Exceptions List: *.local, 169.254/16
+              FTP Passive Mode: Yes
+        Thunderbolt Bridge:
+          Type: Bridge
+          BSD Device Name: bridge0
+          Hardware (MAC) Address: d6:00:21:40:24:00
+          IPv4:
+              Configuration Method: DHCP
+          IPv6:
+              Configuration Method: Automatic
+          Proxies:
+              Exceptions List: *.local, 169.254/16
+              FTP Passive Mode: Yes
+
+Memory:
+
+    Memory Slots:
+
+      ECC: Disabled
+      Upgradeable Memory: No
+
+        BANK 0/DIMM0:
+
+          Size: 4 GB
+          Type: LPDDR3
+          Speed: 2133 MHz
+          Status: OK
+          Manufacturer: 0x802C
+          Part Number: 0x4D5435324C3531324D3332443250462D3039
+          Serial Number: -
+
+        BANK 1/DIMM0:
+
+          Size: 4 GB
+          Type: LPDDR3
+          Speed: 2133 MHz
+          Status: OK
+          Manufacturer: 0x802C
+          Part Number: 0x4D5435324C3531324D3332443250462D3039
+          Serial Number: -
+
+NVMExpress:
+
+    Apple SSD Controller:
+
+        APPLE SSD AP0512J:
+
+          Capacity: 500.28 GB (5,00,27,77,92,768 bytes)
+          TRIM Support: Yes
+          Model: APPLE SSD AP0512J
+          Revision: 14.17.01
+          Serial Number: C02718703CGH9WL1B
+          Link Width: x4
+          Link Speed: 8.0 GT/s
+          Detachable Drive: No
+          BSD Name: disk0
+          Partition Map Type: GPT (GUID Partition Table)
+          Removable Media: No
+          Volumes:
+            EFI:
+              Capacity: 314.6 MB (31,45,72,800 bytes)
+              BSD Name: disk0s1
+              Content: EFI
+              Volume UUID: E783267B-A4C3-3556-B751-DBED770EB996
+            disk0s2:
+              Capacity: 499.96 GB (4,99,96,31,74,912 bytes)
+              BSD Name: disk0s2
+              Content: Apple_APFS
+
+Network:
+
+    LPSS Serial Adapter (1):
+
+      Type: PPP (PPPSerial)
+      Hardware: Modem
+      BSD Device Name: lpss-serial1
+      IPv4:
+          Configuration Method: PPP
+      IPv6:
+          Configuration Method: Automatic
+      Proxies:
+          FTP Passive Mode: Yes
+      Service Order: 0
+
+    LPSS Serial Adapter (2):
+
+      Type: PPP (PPPSerial)
+      Hardware: Modem
+      BSD Device Name: lpss-serial2
+      IPv4:
+          Configuration Method: PPP
+      IPv6:
+          Configuration Method: Automatic
+      Proxies:
+          FTP Passive Mode: Yes
+      Service Order: 1
+
+    Wi-Fi:
+
+      Type: AirPort
+      Hardware: AirPort
+      BSD Device Name: en0
+      IPv4 Addresses: 10.193.204.136
+      IPv4:
+          AdditionalRoutes:
+              DestinationAddress: 10.193.204.136
+              SubnetMask: 255.255.255.255
+              DestinationAddress: 169.254.0.0
+              SubnetMask: 255.255.0.0
+          Addresses: 10.193.204.136
+          ARPResolvedHardwareAddress: 00:00:5e:00:01:04
+          ARPResolvedIPAddress: 10.192.0.1
+          Configuration Method: DHCP
+          ConfirmedInterfaceName: en0
+          Interface Name: en0
+          Network Signature: IPv4.Router=10.192.0.1;IPv4.RouterHardwareAddress=00:00:5e:00:01:04
+          Router: 10.192.0.1
+          Subnet Masks: 255.252.0.0
+      IPv6:
+          Configuration Method: Automatic
+      DNS:
+          Server Addresses: 130.126.2.131
+      DHCP Server Responses:
+          Domain Name Servers: 130.126.2.131
+          Lease Duration (seconds): 0
+          DHCP Message Type: 0x05
+          Routers: 10.192.0.1
+          Server Identifier: 192.17.90.180
+          Subnet Mask: 255.252.0.0
+      Ethernet:
+          MAC Address: dc:a9:04:74:59:9b
+          Media Options: 
+          Media Subtype: Auto Select
+      Proxies:
+          Exceptions List: *.local, 169.254/16
+          FTP Passive Mode: Yes
+      Service Order: 2
+
+    Bluetooth PAN:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: en6
+      IPv4:
+          Configuration Method: DHCP
+      IPv6:
+          Configuration Method: Automatic
+      Proxies:
+          Exceptions List: *.local, 169.254/16
+          FTP Passive Mode: Yes
+      Service Order: 3
+
+    Thunderbolt Bridge:
+
+      Type: Ethernet
+      Hardware: Ethernet
+      BSD Device Name: bridge0
+      IPv4:
+          Configuration Method: DHCP
+      IPv6:
+          Configuration Method: Automatic
+      Proxies:
+          Exceptions List: *.local, 169.254/16
+          FTP Passive Mode: Yes
+      Service Order: 4
+
+Power:
+
+    Battery Information:
+
+      Model Information:
+          Serial Number: D867511G17HHDTDAS
+          Manufacturer: SMP
+          Device Name: bq20z451
+          Pack Lot Code: 0
+          PCB Lot Code: 0
+          Firmware Version: 901
+          Hardware Revision: 1
+          Cell Revision: 3922
+      Charge Information:
+          Charge Remaining (mAh): 2947
+          Fully Charged: No
+          Charging: No
+          Full Charge Capacity (mAh): 4012
+      Health Information:
+          Cycle Count: 353
+          Condition: Normal
+      Battery Installed: Yes
+      Amperage (mA): -446
+      Voltage (mV): 12147
+
+    System Power Settings:
+
+      AC Power:
+          System Sleep Timer (Minutes): 0
+          Disk Sleep Timer (Minutes): 10
+          Display Sleep Timer (Minutes): 57
+          Wake on AC Change: No
+          Wake on Clamshell Open: Yes
+          Wake on LAN: Yes
+          AutoPowerOff Delay: 28800
+          AutoPowerOff Enabled: 1
+          DarkWakeBackgroundTasks: 1
+          Display Sleep Uses Dim: Yes
+          GPUSwitch: 2
+          Hibernate Mode: 3
+          High Standby Delay: 86400
+          PrioritizeNetworkReachabilityOverSleep: 0
+          ProximityDarkWake: 1
+          Standby Battery Threshold: 50
+          Standby Delay: 10800
+          Standby Enabled: 1
+          TCPKeepAlivePref: 1
+      Battery Power:
+          System Sleep Timer (Minutes): 15
+          Disk Sleep Timer (Minutes): 10
+          Display Sleep Timer (Minutes): 15
+          Wake on AC Change: No
+          Wake on Clamshell Open: Yes
+          AutoPowerOff Delay: 28800
+          AutoPowerOff Enabled: 1
+          Current Power Source: Yes
+          DarkWakeBackgroundTasks: 1
+          Display Sleep Uses Dim: Yes
+          GPUSwitch: 2
+          Hibernate Mode: 3
+          High Standby Delay: 86400
+          ProximityDarkWake: 0
+          Reduce Brightness: Yes
+          Standby Battery Threshold: 50
+          Standby Delay: 10800
+          Standby Enabled: 1
+          TCPKeepAlivePref: 1
+
+    Hardware Configuration:
+
+      UPS Installed: No
+
+    AC Charger Information:
+
+      Connected: No
+      Charging: No
+
+Printer Software:
+
+    PPDs:
+
+      PPDs:
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7400DT.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8560N.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8560DT.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6360DN.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7760DX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6360N.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6350DX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7750DN.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7760GX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 4510DX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6300DN.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6300N.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8550DT.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 5550DN.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8500N.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6360DX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7760DN.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7750GX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7750DXF.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8550DP.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/EPSON FAX A3.gz
+          Version: 1.71
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 4510N.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 5550N.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8560MFP.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8560DX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7400DX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6350DP.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 5550DT.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 4510DT.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6350DT.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8860MFP.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7400N.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7750B.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8550DX.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 6360DT.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8560DN.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7400DN.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8860.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 5550B.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 4510B.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/EPSON FAX.gz
+          Version: 1.71
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 7400DXF.gz
+          Version: 2.0.15
+          Path: /Library/Printers/PPDs/Contents/Resources/Xerox Phaser 8500DN.gz
+          Version: 2.0.15
+
+    Printers:
+
+      Printers:
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_jgdir.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_rotate.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4811.plugin/Contents/Info.plist
+          Version: 1.1.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_sfusb.plugin/Contents/Info.plist
+          Version: 1.4.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_farec.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_hsl.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_caps.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_qare.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq2415.plugin/Contents/Info.plist
+          Version: 1.1.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_smac.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_dscrn.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_tdg.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_ddoct.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_ago8.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4809.plugin/Contents/Info.plist
+          Version: 1.2.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_bjnp.plugin/Contents/Info.plist
+          Version: 2.10.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldo9.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_racs2.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_lld09.plugin/Contents/Info.plist
+          Version: 3.9.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq2413.plugin/Contents/Info.plist
+          Version: 2.2.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4807.plugin/Contents/Info.plist
+          Version: 2.3.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_mcrp3.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldv0.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_lld.plugin/Contents/Info.plist
+          Version: 4.4.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_zoom.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldo0.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_mcrpp.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_fare.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_cubs.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_sfusb2.plugin/Contents/Info.plist
+          Version: 1.5.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq2414.plugin/Contents/Info.plist
+          Version: 1.2.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_ag.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_ausm.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_gercc.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_ijfsh.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_gercg.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq4808.plugin/Contents/Info.plist
+          Version: 2.2.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_iom.plugin/Contents/Info.plist
+          Version: 1.9.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_mcrp2.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdj_cnq9601.plugin/Contents/Info.plist
+          Version: 2.2.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_mldo8.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Plugins/cijsdm_tonec.plugin/Contents/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Frameworks/CIJSDM.framework/Versions/A/Resources/Info.plist
+          Version: 2.1.0
+          Path: /Library/Printers/Canon/IJScanner/Frameworks/CIJSDA.framework/Versions/A/Resources/Info.plist
+          Version: 3.1.0
+          Path: /Library/Printers/Canon/IJScanner/Frameworks/CIJSDV.framework/Versions/A/Resources/Info.plist
+          Version: 2.0.0
+          Path: /Library/Printers/Canon/IJScanner/Frameworks/CIJSDE.framework/Versions/A/Resources/Info.plist
+          Version: 1.4.0
+          Path: /Library/Printers/Xerox/PDEs/XeroxFinishing.plugin/Contents/Info.plist
+          Version: 2.0.15
+          Path: /Library/Printers/Xerox/PDEs/XeroxJobType.plugin/Contents/Info.plist
+          Version: 2.0.15
+          Path: /Library/Printers/Xerox/PDEs/XeroxPaperOptions.plugin/Contents/Info.plist
+          Version: 2.0.15
+          Path: /Library/Printers/Xerox/PDEs/XeroxImaging.plugin/Contents/Info.plist
+          Version: 2.0.15
+          Path: /Library/Printers/EPSON/Fax/Libraries/FaxRecipientLib2.framework/Versions/A/Resources/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Libraries/FICLib.framework/Versions/A/Resources/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Libraries/rastertotiff.framework/Versions/A/Resources/TIFFInfo.plist
+          Version: 1.73
+          Path: /Library/Printers/EPSON/Fax/Libraries/rastertotiff.framework/Versions/A/Resources/Info.plist
+          Version: 1.73
+          Path: /Library/Printers/EPSON/Fax/FaxIOSupport/FaxReceiveLib.framework/Versions/A/Resources/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/FaxIOSupport/epsonfax.app/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/FaxIOSupport/FaxIOService.framework/Versions/A/Resources/Info.plist
+          Version: 1.72
+          Path: /Library/Printers/EPSON/Fax/PDEs/PDECPlugin.plugin/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Icons/EpsonFax.icons/Contents/Info.plist
+          Version: 1.00
+          Path: /Library/Printers/EPSON/Fax/Filter/commandFilter.app/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Filter/rastertoepfax.app/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/AutoSetupTool/EPFaxAutoSetupTool.app/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Help/Epson_IJFax_C.help/Contents/Info.plist
+          Version: 1.41
+          Path: /Library/Printers/EPSON/Fax/SupportPrinters/FaxSupportInfo.bundle/Contents/Info.plist
+          Version: 1.10
+          Path: /Library/Printers/EPSON/Fax/Utility/FAX Utility.app/Contents/Info.plist
+          Version: 1.73
+          Path: /Library/Printers/EPSON/Fax/Utility/Fax Receive Monitor.app/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Utility/Plugins/FaxTransmissionRecord.plugin/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Utility/Plugins/FaxPrinterSpeedDial.plugin/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Utility/Plugins/FaxSettings.plugin/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Utility/Plugins/FaxCheckConnection.plugin/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Utility/Plugins/FaxReceive.plugin/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Utility/Plugins/FaxSyncContacts.plugin/Contents/Info.plist
+          Version: 1.71
+          Path: /Library/Printers/EPSON/Fax/Utility/Help/Epson_IJFaxUTY.help/Contents/Info.plist
+          Version: 1.41
+
+    Image Capture Devices:
+
+      Image Capture Devices:
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter A1.bundle/Contents/Info.plist
+          Version: 1.0.9
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 54.bundle/Contents/Info.plist
+          Version: 1.0.11
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/FIT.bundle/Contents/Info.plist
+          Version: 3.7.0
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter DD.bundle/Contents/Info.plist
+          Version: 1.1.0
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 10C.bundle/Contents/Info.plist
+          Version: 1.6.0
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 66.bundle/Contents/Info.plist
+          Version: 1.0.12
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter C3.bundle/Contents/Info.plist
+          Version: 1.0.2
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 95.bundle/Contents/Info.plist
+          Version: 1.2.2
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter EB.bundle/Contents/Info.plist
+          Version: 1.0.4
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter CA.bundle/Contents/Info.plist
+          Version: 1.0.4
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 111.bundle/Contents/Info.plist
+          Version: 1.0.1
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 68.bundle/Contents/Info.plist
+          Version: 1.1.5
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 23.bundle/Contents/Info.plist
+          Version: 1.0.2
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 52.bundle/Contents/Info.plist
+          Version: 1.1.4
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 8B.bundle/Contents/Info.plist
+          Version: 1.0.5
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 7A.bundle/Contents/Info.plist
+          Version: 1.0.8
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 7C.bundle/Contents/Info.plist
+          Version: 1.0.11
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Image Filter2.bundle/Contents/Info.plist
+          Version: 4.4.01
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 1D.bundle/Contents/Info.plist
+          Version: 1.0.2
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 6E.bundle/Contents/Info.plist
+          Version: 1.0.4
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 94.bundle/Contents/Info.plist
+          Version: 1.2.2
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter FE.bundle/Contents/Info.plist
+          Version: 1.0
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 86.bundle/Contents/Info.plist
+          Version: 1.1.1
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter AD.bundle/Contents/Info.plist
+          Version: 1.2.0
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 32.bundle/Contents/Info.plist
+          Version: 1.0.4
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 43.bundle/Contents/Info.plist
+          Version: 1.1.6
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter C2.bundle/Contents/Info.plist
+          Version: 1.0.2
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/DDC.bundle/Contents/Info.plist
+          Version: 1.1.2
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 41.bundle/Contents/Info.plist
+          Version: 1.1.3
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 30.bundle/Contents/Info.plist
+          Version: 1.0.6
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/ImageFilter.bundle/Contents/Info.plist
+          Version: 3.2.1
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 7E.bundle/Contents/Info.plist
+          Version: 1.0.4
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/PlugIns/Interpreter 5A.bundle/Contents/Info.plist
+          Version: 1.0.5
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/ModelInfo.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/DeviceInfo.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/ResolutionInfo.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/ProfileInfo.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/RegionCodeInfo.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/DeviceMatchingInfo.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Resources/HardwareInfo.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/EPSON Scanner.app/Contents/Info.plist
+          Version: 5.7.24
+          Path: /Library/Image Capture/Devices/Canon IJScanner4.app/Contents/Resources/DeviceInfo.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner4.app/Contents/Resources/DeviceMatchingInfo.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner4.app/Contents/Info.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner6.app/Contents/Resources/DeviceInfo.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner6.app/Contents/Resources/DeviceMatchingInfo.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner6.app/Contents/Info.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner2.app/Contents/Resources/DeviceInfo.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner2.app/Contents/Resources/DeviceMatchingInfo.plist
+          Version: 4.0.0
+          Path: /Library/Image Capture/Devices/Canon IJScanner2.app/Contents/Info.plist
+          Version: 4.0.0
+
+    Image Capture Support:
+
+      Image Capture Support:
+          Path: /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/AirScanLegacyDiscovery.app/Contents/Info.plist
+          Version: 14.4
+
+    System Library Extensions:
+
+      System Library Extensions:
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleXserveRAID.kext
+          Version: 456.260.3
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/FireWireStorageDeviceSpecifics.kext
+          Version: 456.260.3
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/USBStorageDeviceSpecifics.kext
+          Version: 456.260.3
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/AppleATAPIStorage.kext
+          Version: 456.260.3
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SCSIDeviceSpecifics.kext
+          Version: 456.260.3
+          Path: /System/Library/Extensions/AppleStorageDrivers.kext/Contents/PlugIns/SonyXDCAMDriver.kext
+          Version: 456.260.3
+          Path: /System/Library/Extensions/IOStreamFamily.kext/Contents/PlugIns/IOStreamUserClient.kext
+          Version: 1.1.0
+          Path: /System/Library/Extensions/AppleTopCase.kext
+          Version: 138.4
+          Path: /System/Library/Extensions/AppleTopCase.kext/Contents/PlugIns/AppleTopCaseActuatorHIDDriver.kext
+          Version: 138.4
+          Path: /System/Library/Extensions/IOVideoFamily.kext/Contents/PlugIns/IOVideoDeviceUserClient.kext
+          Version: 1.2.0
+          Path: /System/Library/Extensions/AppleMobileDevice.kext
+          Version: 3.5.0
+          Path: /System/Library/Extensions/AppleUSBTopCase.kext
+          Version: 255
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriver.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDUserClient.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOHIDFamily.kext/Contents/PlugIns/IOHIDEventDriverSafeBoot.kext
+          Version: 2.0.0
+          Path: /System/Library/Extensions/IOUSBFamily.kext/Contents/PlugIns/IOUSBHIDDriverSafeBoot.kext
+          Version: 900.4.2
+          Path: /System/Library/Extensions/CellPhoneHelper.kext
+          Version: 1.4.0
+          Path: /System/Library/Extensions/IOUSBHostFamily.kext/Contents/PlugIns/IOUSBHostHIDDeviceSafeBoot.kext
+          Version: 1.2
+
+    Library Extensions:
+
+      Library Extensions: 
+
+Printers:
+
+    engr-print-01.engr.illinois.edu:
+
+      Status: Idle
+      Print Server: Local
+      Driver Version: 10.4
+      Default: No
+      System Printer Sharing: Yes
+      Shared: No
+      URI: smb://engr-print-01.engr.illinois.edu/siebl-3323-printer
+      PPD: Xerox Phaser 5550DT
+      PPD File Version: 2.0.15
+      PostScript Version: (3016.101) 10
+      CUPS Version: 2.2.9 (cups-462.12)
+      Scanning support: No
+      Printer Commands: ReportLevels ReportStatus com.xerox.ReportSavedJobs com.xerox.ReportJobAccounting com.xerox.ReportColorCorrections 
+      Added: Friday, 14 September 2018 at 12:17:07 PM Central Daylight Time
+      CUPS filters:
+        pstophaserps:
+          Path: /Library/Printers/Xerox/Filters/pstophaserps
+          Permissions: rwxr-xr-x
+        commandfilter:
+          Path: /Library/Printers/Xerox/Filters/commandfilter
+          Permissions: rwxr-xr-x
+      Fax support: No
+      PDEs:
+        XeroxPaperOptions.plugin:
+          Sandbox compliant: Yes
+
+    SIEB2203:
+
+      Status: Idle
+      Print Server: Local
+      Driver Version: 10.4
+      Default: Yes
+      System Printer Sharing: Yes
+      Shared: No
+      URI: smb://engr-print-01.engr.illinois.edu/siebl-2203-printer
+      PPD: Xerox Phaser 5550DT
+      PPD File Version: 2.0.15
+      PostScript Version: (3016.101) 10
+      CUPS Version: 2.2.9 (cups-462.12)
+      Scanning support: No
+      Printer Commands: ReportLevels ReportStatus com.xerox.ReportSavedJobs com.xerox.ReportJobAccounting com.xerox.ReportColorCorrections 
+      Added: Thursday, 31 January 2019 at 2:27:56 PM Central Standard Time
+      CUPS filters:
+        pstophaserps:
+          Path: /Library/Printers/Xerox/Filters/pstophaserps
+          Permissions: rwxr-xr-x
+        commandfilter:
+          Path: /Library/Printers/Xerox/Filters/commandfilter
+          Permissions: rwxr-xr-x
+      Fax support: No
+      PDEs:
+        XeroxPaperOptions.plugin:
+          Sandbox compliant: Yes
+
+SPI:
+
+    Apple Internal Keyboard / Trackpad:
+
+      Product ID: 0x0277
+      Vendor ID: 0x05ac (Apple Inc.)
+      ST Version: 8.96
+      MT Version: 4.69
+      Serial Number: FM775240G9LGJCQA0+ECN
+      Manufacturer: Apple Inc.
+      Location ID: 0x01000000
+
+Software:
+
+    System Software Overview:
+
+      System Version: macOS 10.14.6 (18G95)
+      Kernel Version: Darwin 18.7.0
+      Boot Volume: Macintosh HD
+      Boot Mode: Normal
+      Computer Name: Dipayan’s MacBook Pro
+      User Name: Dipayan Mukherjee (dmukherjee)
+      Secure Virtual Memory: Enabled
+      System Integrity Protection: Enabled
+      Time since boot: 6 days 2:52
+
+Storage:
+
+    Macintosh HD:
+
+      Available: 253.74 GB (2,53,73,94,79,040 bytes)
+      Capacity: 499.96 GB (4,99,96,31,74,912 bytes)
+      Mount Point: /
+      File System: APFS
+      Writable: Yes
+      Ignore Ownership: No
+      BSD Name: disk1s1
+      Volume UUID: 756F5B6A-EFD4-3D91-9495-AB75098D37BE
+      Physical Drive:
+          Device Name: APPLE SSD AP0512J
+          Media Name: AppleAPFSMedia
+          Medium Type: SSD
+          Protocol: PCI-Express
+          Internal: Yes
+          Partition Map Type: Unknown
+
+Thunderbolt:
+
+    Thunderbolt Bus 1:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Pro
+      UID: 0x000110EA21402401
+      Route String: 0
+      Firmware Version: 41.1
+      Domain UUID: FA0ABA9E-95C6-705E-9C4F-07EA79C91AD4
+      Port:
+          Status: No device connected
+          Link Status: 0x101
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 4
+          Link Controller Firmware Version: 0.39.0
+      Port:
+          Status: No device connected
+          Link Status: 0x101
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 3
+          Link Controller Firmware Version: 0.39.0
+
+    Thunderbolt Bus 0:
+
+      Vendor Name: Apple Inc.
+      Device Name: MacBook Pro
+      UID: 0x000110EA21402400
+      Route String: 0
+      Firmware Version: 41.1
+      Domain UUID: 7568CDFE-70C2-1D52-8937-F192F8B4601D
+      Port:
+          Status: No device connected
+          Link Status: 0x101
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 2
+          Link Controller Firmware Version: 0.39.0
+      Port:
+          Status: No device connected
+          Link Status: 0x101
+          Speed: Up to 40 Gb/s x1
+          Current Link Width: 0x1
+          Receptacle: 1
+          Link Controller Firmware Version: 0.39.0
+
+USB:
+
+    USB 3.0 Bus:
+
+      Host Controller Driver: AppleUSBXHCISPTLP
+      PCI Device ID: 0x9d2f 
+      PCI Revision ID: 0x0021 
+      PCI Vendor ID: 0x8086 
+
+        Apple T1 Controller:
+
+          Product ID: 0x8600
+          Vendor ID: 0x05ac (Apple Inc.)
+          Version: 1.01
+          Manufacturer: Apple Inc.
+          Location ID: 0x14100000
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleUSBXHCIAR
+      PCI Device ID: 0x15d4 
+      PCI Revision ID: 0x0002 
+      PCI Vendor ID: 0x8086 
+      Bus Number: 0x01 
+
+    USB 3.1 Bus:
+
+      Host Controller Driver: AppleUSBXHCIAR
+      PCI Device ID: 0x15d4 
+      PCI Revision ID: 0x0002 
+      PCI Vendor ID: 0x8086 
+      Bus Number: 0x00 
+
+Volumes:
+
+    net:
+
+      Type: autofs
+      Mount Point: /net
+      Mounted From: map -hosts
+      Automounted: Yes
+
+    home:
+
+      Type: autofs
+      Mount Point: /home
+      Mounted From: map auto_home
+      Automounted: Yes
+
+Wi-Fi:
+
+      Software Versions:
+          CoreWLAN: 13.0 (1375.2)
+          CoreWLANKit: 13.0 (1375.2)
+          Menu Extra: 13.0 (1380.2)
+          System Information: 12.0 (1300.2)
+          IO80211 Family: 12.0 (1200.12.2)
+          Diagnostics: 1.0 (805)
+          AirPort Utility: 6.3.9 (639.9)
+      Interfaces:
+        en0:
+          Card Type: AirPort Extreme  (0x14E4, 0x157)
+          Firmware Version: Broadcom BCM43xx 1.0 (7.77.61.2 AirPortDriverBrcmNIC-1305.8)
+          MAC Address: dc:a9:04:74:59:9b
+          Locale: ETSI
+          Country Code: US
+          Supported PHY Modes: 802.11 a/b/g/n/ac
+          Supported Channels: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 36, 40, 44, 48, 52, 56, 60, 64, 100, 104, 108, 112, 116, 120, 124, 128, 132, 136, 140, 144, 149, 153, 157, 161, 165
+          Wake On Wireless: Supported
+          AirDrop: Supported
+          AirDrop Channel: 149
+          Auto Unlock: Supported
+          Status: Connected
+          Current Network Information:
+            IllinoisNet:
+              PHY Mode: 802.11ac
+              BSSID: 84:d4:7e:61:dc:51
+              Channel: 40
+              Country Code: US
+              Network Type: Infrastructure
+              Security: WPA2 Enterprise
+              Signal / Noise: -51 dBm / -93 dBm
+              Transmit Rate: 1300
+              MCS Index: 9
+
